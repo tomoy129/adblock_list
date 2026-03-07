@@ -1,5 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: mylist
+
 ||www.google-analytics.com
 ||static.affiliate.rakuten.co.jp/widget
 ||s.yimg.jp/images/yjtop-app/promo
