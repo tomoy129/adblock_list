@@ -1,6 +1,10 @@
 [Adblock Plus 2.0]
 ! Title: mylist
 
+news.yahoo.co.jp##.sc-16jacoc-0.hmCfpO
+news.yahoo.co.jp##.sc-1hyvns6-1.ePemaI
+news.yahoo.co.jp##.sc-1hyvns6-1.QxYzZ
+
 ||apm.yahoo.co.jp
 ||ad.doubleclick.net
 ||code.piano.io
