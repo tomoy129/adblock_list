@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: mylist
 
+||static.affiliate.rakuten.co.jp/widget
 ||s.yimg.jp/images/yjtop-app/promo
 news.yahoo.co.jp##.sc-17yu0ul-0.kblyal
 news.yahoo.co.jp##.sc-16jacoc-0.hmCfpO
 news.yahoo.co.jp##.sc-1hyvns6-1.ePemaI
 news.yahoo.co.jp##.sc-1hyvns6-1.QxYzZ
-
 ||apm.yahoo.co.jp
 ||ad.doubleclick.net
 ||code.piano.io
