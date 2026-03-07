@@ -1,0 +1,1111 @@
+||apm.yahoo.co.jp
+||ad.doubleclick.net
+||code.piano.io
+||c2-ap.piano.io
+||buy-ap.piano.io
+||bat.bing.com
+||b99.yahoo.co.jp
+news.yahoo.co.jp##.sc-qhzeq4-0.hqCYfZ
+news.livedoor.com###browsi_wrapper_4_ai_1_rc_0
+news.livedoor.com###google_ads_iframe_\/22879417351\/livedoor_NEWS_SP\/article_native_async_0__container__
+news.livedoor.com###site-body > div.ads-change-color:nth-child(7)
+news.livedoor.com###taboola-below-article-thumbnails-mobile
+news.livedoor.com###taboola-below-article-thumbnails-mobile-split-num-1
+news.livedoor.com###browsi_wrapper_3_ai_1_rc_0
+news.livedoor.com###browsi_wrapper_2_ai_1_rc_0
+news.livedoor.com###browsi_wrapper_1_ai_1_rc_0
+news.livedoor.com###browsi_wrapper_0_ai_1_rc_0
+news.livedoor.com##iframe:nth-child(19)
+news.livedoor.com###taboola-below-summary-thumbnails-mobile-split-num-1
+news.livedoor.com###site-body > div.topics-block.topics-block-tab:nth-child(11) > div.topics_ad.separate01:nth-child(3)
+news.livedoor.com###ads-google-300-tabposition
+news.livedoor.com###taboola-below-summary-thumbnails-mobile
+news.livedoor.com###site-body > div.topics-block.topics-block-tab:nth-child(10) > div.topics_ad.separate01:nth-child(3)
+news.livedoor.com###site-body > div.topics-block.topics-block-tab:nth-child(10) > div.ads-google300:last-child
+news.livedoor.com###site-body > div.ads-change-color:nth-child(8)
+news.livedoor.com###site-body > div.ads-google300:nth-child(4)
+news.livedoor.com###taboola-below-home-thumbnails-mobile
+news.livedoor.com###taboola-below-home-thumbnails-mobile-pl1
+news.livedoor.com###site-body > div.sp-overlay:first-child
+news.livedoor.com###site-body > div:nth-child(2)
+itmedia.co.jp###cmsBody > div.gad:nth-child(8)
+weekly.ascii.jp##main:nth-child(7) > aside.ads:last-child > div.ads__inner:first-child > div.ads-item.ads-item--height2:last-child
+weekly.ascii.jp##main:nth-child(7) > aside.ads:last-child > div.ads__inner:first-child > div.ads-item:nth-child(3)
+weekly.ascii.jp##main:nth-child(7) > div.main__inner:first-child > article > section.article__footer:last-child
+weekly.ascii.jp###contents_detail > ins.adsbygoogle:nth-child(2)
+weekly.ascii.jp##main:nth-child(7) > div.main__inner:first-child > article > section.article__footer:last-child > ul.ads-item:first-child
+weekly.ascii.jp###aswift_4
+weekly.ascii.jp##main:nth-child(7) > div.main__inner:first-child > article > section.article__body:first-child > ins.adsbygoogle:nth-child(6)
+news.yahoo.co.jp###uamods-pickupmain > div.sc-lnYoEn.cXQEGW:first-child
+news.yahoo.co.jp###uamods > div.article_body.highLightSearchTarget:nth-child(3) > div.sc-hFqdOJ.cJkIoY:first-child > div.sc-dNUNvd.fmbvyk:first-child
+nlab.itmedia.co.jp###geniee_overlay_outer
+itmedia.co.jp###ArticleSuperBanner
+www.itmedia.co.jp###div-gpt-ad-SP_article_below-art-Rectangle
+itmedia.co.jp###cmsWrap > div.gad.spvlink:last-child
+itmedia.co.jp###cmsBodyMain > div > div > div > div
+itmedia.co.jp###masterWrap > div.gad:nth-child(3)
+itmedia.co.jp###_popin_recommend
+itmedia.co.jp###cmsBody > div.gad:nth-child(19)
+itmedia.co.jp###cmsBody > div.gad:nth-child(9)
+detail.chiebukuro.yahoo.co.jp###srm > div > div:last-child > aside.ClapLv3SubList_Chie-SubList__ListItem__1E4Vi.ClapLv3SubList_Chie-SubList__ListItem--Ad__1g_jU:nth-child(10)
+news.yahoo.co.jp###contents > div.sc-eJFUuS.ffhPAp:first-child > aside.sc-fLkZIC.dEQGKZ:nth-child(4)
+news.yahoo.co.jp###contents > div.sc-eJFUuS.ffhPAp:first-child > aside.sc-fLkZIC.dEQGKZ:last-child
+dic.pixiv.net###google_ads_iframe_\/9116787\,21259798\/1517560_2_0
+news.mynavi.jp###ad_is_1708210124652
+news.mynavi.jp##iframe[style="border: 0px; vertical-align: bottom;"]
+news.mynavi.jp###google_ads_iframe_\/6082618\/mn\.articlebottom1_0
+news.mynavi.jp###google_ads_iframe_\/6082618\/mn\.articlebottom2_0__container__
+news.mynavi.jp###google_ads_iframe_\/6082618\/mn\.articlebottom3_0__container__
+ja.m.wikipedia.org###wll2021
+page.auctions.yahoo.co.jp##div[style="text-align:center;"]
+page.auctions.yahoo.co.jp###auctionSqb_ad_frame
+itmedia.co.jp##iframe[style="margin: 0px !important; padding: 0px !important; width: 550px !important; height: 250px !important; border: 0px !important; overflow: hidden !important; float: none !important; max-height: 250px !important; display: block;"]
+itmedia.co.jp##.teads-inread.teads-display.sm-screen
+itmedia.co.jp###logly-lift-widget
+itmedia.co.jp##._popIn_recommend
+news.yahoo.co.jp###news_ydn_1_sp
+news.yahoo.co.jp##.yads_expert_infeed_item
+news.yahoo.co.jp###ad2 > div > div > div > .yjAdLink > .yjAdImage
+news.yahoo.co.jp###expertArticleAdOverlay > div
+news.yahoo.co.jp###yads_21732_270490
+news.yahoo.co.jp##.yads_ad_sph
+news.yahoo.co.jp###yadssph
+detail.chiebukuro.yahoo.co.jp###overlay-ad-parent-detail-page
+news.yahoo.co.jp##.jwXgKm.sc-cAwhgt
+news.yahoo.co.jp##li:nth-of-type(10)
+news.yahoo.co.jp##.yjAdLink
+www.nikkei.com##.icon_i1nva059
+news.yahoo.co.jp##.yads_ad_spn_large_res_l.yads_ad_item_1_res_l.yads_ad_res_l.yads_ad_spn_large.yads_ad_item_1.yads_ad
+news.yahoo.co.jp##li.newsFeed_item.brvNxu.sc-fXtZR
+news.yahoo.co.jp##.xRKJZ.sc-bvVdvH
+news.yahoo.co.jp###adOverlay
+news.yahoo.co.jp##.promenade_Abtest_stb.yads_stb_item
+news.yahoo.co.jp###articleAdOverlay > div
+news.yahoo.co.jp##.yads_article_infeed_item
+news.yahoo.co.jp##li.newsFeed_item.jHqelc.NewsFeedMultiAdItem__AdItem-dyYVaw:nth-of-type(53)
+news.yahoo.co.jp##li.newsFeed_item.jHqelc.NewsFeedMultiAdItem__AdItem-dyYVaw:nth-of-type(47)
+news.yahoo.co.jp##li.newsFeed_item.jHqelc.NewsFeedMultiAdItem__AdItem-dyYVaw:nth-of-type(41)
+news.yahoo.co.jp###ad7
+news.yahoo.co.jp###yads_39520_580573
+news.yahoo.co.jp##div.adWrap
+news.yahoo.co.jp###articleAdOverlay
+news.yahoo.co.jp##.yads_stb_item
+news.yahoo.co.jp##.tracked_mods.xpf-stb
+news.yahoo.co.jp##.xpf-stb__carousel
+news.yahoo.co.jp##li.newsFeed_item:nth-of-type(49)
+news.yahoo.co.jp##li.newsFeed_item:nth-of-type(43)
+news.yahoo.co.jp##li.newsFeed_item:nth-of-type(37)
+news.yahoo.co.jp##li.newsFeed_item:nth-of-type(31)
+news.yahoo.co.jp##li.newsFeed_item:nth-of-type(25)
+news.yahoo.co.jp##li.newsFeed_item:nth-of-type(19)
+news.yahoo.co.jp##li.newsFeed_item:nth-of-type(12)
+news.yahoo.co.jp##li.newsFeed_item:nth-of-type(6)
+news.yahoo.co.jp###adOverlay > div
+news.yahoo.co.jp##li.newsFeed_item.jHqelc.NewsFeedMultiAdItem__AdItem-dyYVaw
+news.yahoo.co.jp###ad7 > div > div > div > .yjAdLink
+news.yahoo.co.jp###ad47 > div > div > div > .yjAdLink
+news.yahoo.co.jp##.bvfrFI.sc-kJrGqu
+news.yahoo.co.jp##li.newsFeed_item.jHqelc.NewsFeedMultiAdItem__AdItem-dyYVaw:nth-of-type(29)
+news.yahoo.co.jp##li.newsFeed_item.jHqelc.NewsFeedMultiAdItem__AdItem-dyYVaw:nth-of-type(23)
+news.yahoo.co.jp##li.newsFeed_item:nth-of-type(10)
+news.yahoo.co.jp##.adWrap-articleHead.adWrap
+news.yahoo.co.jp##.fQyhWL.OverlayAd__AdOverlayWrapper-ljkQuH
+news.yahoo.co.jp##.ieWQvk.ExpertArticleAdOverlay__ExpertArticleAdOverlayWrapper-dhtEpL
+news.yahoo.co.jp##.sc-fSvVUw.bGtCdD
+review.kakaku.com###google_ads_iframe_\/116070306\/k\/itemview\/review\/728x90_0__container__
+microsoft.com##.c-uhfh-alert.f-information.epb-container.theme-light.b-white
+krsw.5ch.net##.push
+krsw.5ch.net##.bLeft
+krsw.5ch.net###adoverlay
+krsw.5ch.net##iframe[style="border: 0px;"]
+news.yahoo.co.jp##.sc-cpUASM.dGnpIY
+news.yahoo.co.jp##.sc-eSoXWK.WzEhh
+kakaku.com##.c-ad.c-ad-size4
+kakaku.com##.c-ad.c-ad-size3
+kakaku.com###google_ads_iframe_\/116070306\/k\/top_300x250_0__container__
+kakaku.com##.c-ad.c-ad-size2
+kakaku.com###google_ads_iframe_\/116070306\/k\/top_468x60_0
+asahi.5ch.net##.push
+asahi.5ch.net##.bLeft
+asahi.5ch.net##iframe[style="border: 0px;"]
+asahi.5ch.net##.me310.center.column
+asahi.5ch.net###hideme
+gigazine.net###Google_TC
+gigazine.net###google_ads_iframe_\/4330625\/Google_TC_0__container__
+gigazine.net###LT
+gigazine.net###google_ads_iframe_\/4330625\/Google_LT_0__container__
+gigazine.net###div-gpt-ad-1664264689307-0
+gigazine.net###google_ads_iframe_\/4330625\/Google_RB_0
+gigazine.net##.adsbygoogle.adsbygoogle-noablate
+gigazine.net###aswift_1_host
+gigazine.net###div-gpt-ad-1523935894717-2
+gigazine.net###google_ads_iframe_\/4330625\/Google_RT_0__container__
+gigazine.net###google_ads_iframe_\/4330625\/Google_EF\/Google_EF_2_0
+gigazine.net###google_ads_iframe_\/4330625\/Google_EF_0
+gigazine.net###google_ads_iframe_\/4330625\/Google_LB_0__container__
+gigazine.net###Google_IL
+gigazine.net###google_ads_iframe_\/4330625\/Google_IL_0__container__
+itmedia.co.jp###google_ads_iframe_\/43042345\/pcuser\/PC_article_rcol_bottom-Rectangle_0
+atmarkit.itmedia.co.jp##.colBox.colBoxIndexList.colBoxARTICLEAD
+atmarkit.itmedia.co.jp##.colBoxRight
+atmarkit.itmedia.co.jp###globalHeaderMiddle
+minkara.carview.co.jp##.bnr300250_right
+minkara.carview.co.jp###div-gpt-ad-1526012271343-0
+minkara.carview.co.jp###google_ads_iframe_\/127124839\/3_0
+minkara.carview.co.jp##.bnr300250_left
+minkara.carview.co.jp###div-gpt-ad-1524728769034-0
+minkara.carview.co.jp###google_ads_iframe_\/127124839\/2_0
+minkara.carview.co.jp###div-gpt-ad-1522232211526-0
+minkara.carview.co.jp###google_ads_iframe_\/127124839\/20_0
+kakaku.com###google_ads_iframe_\/116070306\/k\/itemlist\/160x600_0
+kakaku.com##.sqTwoWrapper
+kakaku.com##.sqR
+kakaku.com###google_ads_iframe_\/116070306\/k\/itemlist\/footer_right\/300x250_0__container__
+kakaku.com##.sqL
+kakaku.com###google_ads_iframe_\/116070306\/k\/itemlist\/footer_left\/300x250_0__container__
+moneypost.jp##.ats-trvd-wrapper
+moneypost.jp##.overlayBtnWrapper
+moneypost.jp##.trv-overlay
+fmworld.net##.advertisementright
+fmworld.net###google_ads_iframe_\/9116787\,22575667026\/1538208_0
+chakuwiki.org##.adsbygoogle.adsbygoogle-noablate
+chakuwiki.org###aswift_8_host
+dic.pixiv.net###footer_inline_ad
+dic.pixiv.net###footer_inline_ad_inner
+dic.pixiv.net###google_ads_iframe_\/21259798\/pixiv_pc_d_footer_flux_0__container__
+chakuwiki.org##.adsbygoogle
+chakuwiki.org###aswift_1_host
+news.yahoo.co.jp##.sc-cHPYrV.inUGdS
+news.yahoo.co.jp##.LiveStream__Inner-YwiFQ.cOPgMc.jnn
+togetter.com##.ad_rectangle
+togetter.com##.lazy-dfp
+togetter.com###tg_pc_right_top_300x600
+togetter.com###google_ads_iframe_\/5453651\/tg_pc_right_top_300x600_0
+togetter.com##.activate
+togetter.com###ad_overlay
+togetter.com##.ad_custom
+mmabewev.sbs##.black
+mmabewev.sbs##.win2
+mmabewev.sbs###win2
+mmabewev.sbs##.delayedPopupWindow.lightbox
+mmabewev.sbs###delayedPopup
+mmabewev.sbs##.row
+mmabewev.sbs##.col-md-8
+mmabewev.sbs##span[style="color: #000"]
+dic.nicovideo.jp###crt-1603568-2
+dic.nicovideo.jp##iframe[src="https://cas.criteo.com/delivery/afr.php?ptv=135&abp=1&zoneid=1603568&bundle=zaWJ719NQlZyRFZjQnpJdndJR2E3JTJGUTVwajRJa3hEbFVKSXRFN2JwSHptV1dYODNnbThSMjNJUEZpa0dLN0tZOXZjbSUyQnFTa0ZJcnhUeGVoUDJIT05EcVklMkJJc2FhNU4zemZ5OGszVHVEb25hdXJ2VHU2WCUyRkNic2xEdjhwZjJXOEJ1UmRld1ljN3VLc0NOdFAlMkZPcktlVmdja0pnJTNEJTNE&cb=98001968404&nodis=1&charset=UTF-8&dc=3&atfr=0&loc=https%3A%2F%2Fdic.nicovideo.jp%2Fb%2Fa%2F%25E4%25BF%25BA%25E7%259A%2584%25E7%25B3%259E%25E3%2582%25B2%25E3%2583%25BC%25E5%2587%25A6%25E5%2588%2591%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2F1-"]
+dic.nicovideo.jp###crt-1603568-2_cto_iframe
+dic.nicovideo.jp###crt-1603568
+dic.nicovideo.jp##iframe[src="https://cas.criteo.com/delivery/afr.php?ptv=135&abp=1&zoneid=1603568&bundle=zaWJ719NQlZyRFZjQnpJdndJR2E3JTJGUTVwajRJa3hEbFVKSXRFN2JwSHptV1dYODNnbThSMjNJUEZpa0dLN0tZOXZjbSUyQnFTa0ZJcnhUeGVoUDJIT05EcVklMkJJc2FhNU4zemZ5OGszVHVEb25hdXJ2VHU2WCUyRkNic2xEdjhwZjJXOEJ1UmRld1ljN3VLc0NOdFAlMkZPcktlVmdja0pnJTNEJTNE&cb=73327909989&nodis=1&charset=UTF-8&dc=3&atfr=0&loc=https%3A%2F%2Fdic.nicovideo.jp%2Fb%2Fa%2F%25E4%25BF%25BA%25E7%259A%2584%25E7%25B3%259E%25E3%2582%25B2%25E3%2583%25BC%25E5%2587%25A6%25E5%2588%2591%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2F1-"]
+dic.nicovideo.jp###crt-1603568_cto_iframe
+dic.nicovideo.jp##iframe[src="https://ads.nicovideo.jp/bannertext?bannerid=91008&frameId=&zoneid=1088"]
+dic.nicovideo.jp###ads_1088_BGXhO_1681556656677
+dic.nicovideo.jp##iframe[src="https://cas.criteo.com/delivery/afr.php?ptv=135&abp=1&zoneid=1603567&bundle=FNXBEF9IdGNxWnN3TlU1N21kNm1tUiUyRnFiNGdtc2Nqd0ZsaGpLQ3pFYnJIdUtzU09WallERjBsQnZOR1QzT1dMVGxtTzVPNDA4VEtwR21kTHVqcFdSRjVESGN5RzBxdkVKeiUyRlklMkJrbjhYWjlKazk5YnlOTmZpT0xVaWhzNjU2alZMbnVBbklndVJRUG9QRWVaTktwdXpZQVhDWWclM0QlM0Q&cb=74615141682&nodis=1&charset=UTF-8&dc=3&atfr=1&loc=https%3A%2F%2Fdic.nicovideo.jp%2Fa%2F%25E5%258D%258A%25E5%25B9%25B4rom"]
+dic.nicovideo.jp###crt-1603567_cto_iframe
+dic.nicovideo.jp##iframe[src="https://cas.criteo.com/delivery/afr.php?ptv=135&abp=1&zoneid=1603558&bundle=FNXBEF9IdGNxWnN3TlU1N21kNm1tUiUyRnFiNGdtc2Nqd0ZsaGpLQ3pFYnJIdUtzU09WallERjBsQnZOR1QzT1dMVGxtTzVPNDA4VEtwR21kTHVqcFdSRjVESGN5RzBxdkVKeiUyRlklMkJrbjhYWjlKazk5YnlOTmZpT0xVaWhzNjU2alZMbnVBbklndVJRUG9QRWVaTktwdXpZQVhDWWclM0QlM0Q&cb=42886045193&nodis=1&charset=UTF-8&dc=3&atfr=0.74&loc=https%3A%2F%2Fdic.nicovideo.jp%2Fa%2F%25E5%258D%258A%25E5%25B9%25B4rom"]
+dic.nicovideo.jp###crt-1603558_cto_iframe
+ascii.jp##[src="https://ad.doubleclick.net/ddm/trackimp/N445203.287513ASCII.JP/B21606637.228030333;dc_trk_aid=426044800;dc_trk_cid=105167861;ord=1566722173;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?"]
+news.yahoo.co.jp##li.newsFeed_item.jHqelc.NewsFeedMultiAdItem__AdItem-dyYVaw:nth-of-type(35)
+news.yahoo.co.jp##.yads_ad_spn_small_res_s.yads_ad_item_1_res_s.yads_ad_res_s.yads_ad_spn_small.yads_ad_item_1.yads_ad
+news.yahoo.co.jp###yads-timeline-84833_582277-84833_582282-84833_582283-4 > .yjcrsl_ad
+news.yahoo.co.jp###ad23 > div > div > div > .yjAdLink
+news.yahoo.co.jp###yads-timeline-84833_582277-84833_582282-84833_582283-2 > .yjcrsl_ad
+news.yahoo.co.jp###news_ydn_2_sp
+news.yahoo.co.jp###ad2
+news.yahoo.co.jp##li.newsFeed_item.jHqelc.NewsFeedMultiAdItem__AdItem-dyYVaw:nth-of-type(2)
+news.yahoo.co.jp##.kdPoUD.ArticleAdOverlay__ArticleAdOverlayWrapper-lapuKb
+news.yahoo.co.jp###yvpubplayer0
+news.yahoo.co.jp###yvpubplayer0 > div > div
+mikefumi.hatenablog.com###globalheader
+news.yahoo.co.jp##.cZhTgx.sc-iODzPY
+tarsama.hatenadiary.com##.article-bar-inner
+kazasikipg.hatenablog.com###globalheader-container
+kazasikipg.hatenablog.com###globalheader
+kazasikipg.hatenablog.com##.is-visible.js-article-bar.article-bar
+news.yahoo.co.jp##li.newsFeed_item.jHqelc.NewsFeedMultiAdItem__AdItem-dyYVaw:nth-of-type(17)
+dic.pixiv.net###ad_top_touch
+dic.pixiv.net###article-body > div > div
+president.jp##div.ad-rectangle:nth-of-type(5)
+president.jp##.--under-article.ad-rectangle
+president.jp##.ad-inarticle
+president.jp###div-gpt-ad-sp_pol_overlay
+king.mineo.jp##.position-sticky.form-row.comment-anchor-navi.border-right.border-left.mx-n3.py-2.bg-white
+togetter.com###app_download_box
+togetter.com##footer > .ad_rectangle
+togetter.com###google_ads_iframe_\/5453651\/tg_sp_overlay_0__container__
+togetter.com##aside
+togetter.com##article > .ad_rectangle
+w.atwiki.jp###atwiki-ads-overlay
+h3poteto.hatenablog.com###globalheader-container
+h3poteto.hatenablog.com##.is-visible.js-article-bar.article-bar
+www.businessinsider.jp###BiStickyAd
+news.yahoo.co.jp###yads_76009_661989
+www.moneypost.jp##.gmoam_outer_wrapper
+www.moneypost.jp###div-gpt-ad-1582008324089-0
+toshiba.semicon-storage.com###ptxEngage_popup_f6c81628
+dic.nicovideo.jp##.sw-Article_Menu-fixed.sw-Article_Menu
+news.yahoo.co.jp##li.newsFeed_item.jHqelc.NewsFeedMultiAdItem__AdItem-dyYVaw:nth-of-type(7)
+ishichang.hatenablog.com###globalheader-container
+ishichang.hatenablog.com##.is-visible.js-article-bar.article-bar
+detail.chiebukuro.yahoo.co.jp###position_infd16
+detail.chiebukuro.yahoo.co.jp##aside.ClapLv3SubList_Chie-SubList__ListItem--Ad__1g_jU.ClapLv3SubList_Chie-SubList__ListItem__1E4Vi:nth-of-type(3)
+detail.chiebukuro.yahoo.co.jp##.Detail_chie-Pages__AdOverlay__1ohIH
+www.itmedia.co.jp###cmsBodyMain > div > div
+www.itmedia.co.jp###div-gpt-ad-1568001306253-0
+www.itmedia.co.jp###cmsBodyMain > .colBoxIndexAD.colBoxIndex
+news.mynavi.jp##.articleSeries_index > .c-sideBanner_articleBottom.c-sideBlock
+news.mynavi.jp###div-gpt-ad-1602491578279-0
+news.mynavi.jp###geniee_overlay_outer
+nikkan-spa.jp##body > div > .widget_text.ad-widget
+nikkan-spa.jp##.cm-ad-player-active.cm-ad-player
+nikkan-spa.jp##.spa_ovrerlay > .widget_text.ad-widget
+dic.pixiv.net###bottom_fixed_ad
+www.moneypost.jp##.ats-trvd-wrapper
+s.rbbtoday.com###div-gpt-ad-overlay1
+www.phileweb.com###sp_article_footeroverlay
+www.phileweb.com###google_ads_iframe_\/83555300\,10444482\/ongenpublisher\/phileweb\/sp_article_header_0__container__
+mikefumi.hatenablog.com###globalheader-container
+tasusu.hatenablog.com###globalheader-container
+tasusu.hatenablog.com##.is-visible.js-article-bar.article-bar
+kuracinnamon.hateblo.jp###globalheader-container
+kuracinnamon.hateblo.jp##.is-visible.js-article-bar.article-bar
+ichizo.hatenablog.com##.is-visible.js-article-bar.article-bar
+tarsama.hatenadiary.com##.is-visible.js-article-bar.article-bar
+tarsama.hatenadiary.com###globalheader-container
+jp.sharp##.shiftup.nv_pagetop
+jp.sharp##.onlinshop_appeal
+news.yahoo.co.jp###yads_8026279-4
+news.yahoo.co.jp###yads_48568_195800
+news.yahoo.co.jp###yads_76009_241327
+news.yahoo.co.jp###yads-timeline-70545_247272-6470671-5
+news.yahoo.co.jp###yads_23796_191470
+detail.chiebukuro.yahoo.co.jp##aside.ClapLv3SubList_Chie-SubList__ListItem--Ad__1g_jU.ClapLv3SubList_Chie-SubList__ListItem__1E4Vi:nth-of-type(2)
+detail.chiebukuro.yahoo.co.jp##aside.ClapLv3SubList_Chie-SubList__ListItem--Ad__1g_jU.ClapLv3SubList_Chie-SubList__ListItem__1E4Vi:nth-of-type(1)
+detail.chiebukuro.yahoo.co.jp###position_mmon > div
+detail.chiebukuro.yahoo.co.jp##.Detail_chie-Pages__AdNM__xQkl8
+detail.chiebukuro.yahoo.co.jp###position_nm_ad_frame
+detail.chiebukuro.yahoo.co.jp###position_overlay > div > div > div > .yjAdLink > .yjAdImage
+www.news-postseven.com###div-gpt-ad-1691658691952-0
+www.moneypost.jp###div-gpt-ad-1582007575136-0
+news.yahoo.co.jp##.gmVZnq.sc-kaYuIE > div
+www.itmedia.co.jp###browsi_admarking_1
+www.itmedia.co.jp###google_ads_iframe_\/43042345\/mobile\/SP_article_browsi_1_0
+www.itmedia.co.jp###belowArticleRectangle > .gad
+www.moneypost.jp###div-gpt-ad-1582007074319-0
+www.moneypost.jp###google_ads_iframe_\/18319668\/moneypost-sp\/rectangle-main_480x320_article_0
+www.moneypost.jp##ins.adsbygoogle-noablate.adsbygoogle:nth-of-type(2)
+www.moneypost.jp##.grippy-host
+www.moneypost.jp###div-gpt-ad-1532588845799-0
+s.kakaku.com##.contents > .subCtsArea
+s.kakaku.com##div.subCtsArea > .multi.IboxDb
+s.kakaku.com###google_ads_iframe_\/116070306\/ks\/itemview\/bbs_view\/300x250_0__container__
+s.kakaku.com##.fade.pageBtmAdBnrArea
+s.kakaku.com##div.subCtsArea:nth-of-type(9)
+s.kakaku.com###headerAd
+s.kakaku.com##li.withIboxDb:nth-of-type(12)
+s.kakaku.com##div.subCtsArea:nth-of-type(7)
+s.kakaku.com##li.withIboxDb > .multi.IboxDb
+s.kakaku.com###div-gpt-ad-ks\/itemview\/review\/300x250_9
+news.yahoo.co.jp##.hpjSEJ.sc-iSDNjo
+news.yahoo.co.jp##.iwwJSv.sc-jAsmzt
+news.mynavi.jp##.articleList-attention.articleList
+news.mynavi.jp##.articleBnr_ydn
+news.mynavi.jp##.c-sidePickup.c-sideBlock
+news.mynavi.jp##body > .c-sideBanner_articleBottom.c-sideBlock
+news.mynavi.jp###div-gpt-ad-1601459153293-0
+news.mynavi.jp##.addUnderLine.thumbnail-size-v2.thumbnail-size.ise-wt-101
+news.mynavi.jp##.articleList-along.articleList
+news.mynavi.jp###div-gpt-ad-1479188208151-20
+news.mynavi.jp###google_ads_iframe_\/6082618\/mnsp\.recommend1_0__container__
+news.mynavi.jp##li.articleList_listNode:nth-of-type(6)
+news.mynavi.jp##.c-sideBanner_articleBottom.articleList_listNode
+news.mynavi.jp###div-gpt-ad-1601026279054-0
+news.mynavi.jp###div-gpt-ad-1479188208151-8
+news.mynavi.jp###js-loadTwitter > div.c-sideBanner_articleBottom.c-sideBlock
+news.mynavi.jp###google_ads_iframe_\/6082618\/mnsp\.articlebottom2_0
+news.mynavi.jp###div-gpt-ad-1535073072701-0
+news.mynavi.jp###div-gpt-ad-1601355284039-0
+news.mynavi.jp###google_ads_iframe_\/6082618\/mnsp\.kanren1_0
+news.mynavi.jp###div-gpt-ad-1479188208151-7
+news.mynavi.jp###google_ads_iframe_\/6082618\/mnsp\.reca_0
+news.yahoo.co.jp###google_ads_iframe_\/21827365205\/news_sp\/news_sp_spweb_kiji_Overlay_c_0
+news.yahoo.co.jp###yads-timeline-84833_582277-84833_582282-84833_582283-23
+news.yahoo.co.jp###yads-timeline-84833_582277-84833_582282-84833_582283-23 > .yjcrsl_ad
+news.yahoo.co.jp###yads-timeline-84833_582277-84833_582282-84833_582283-23 > .yjcrsl_ad > div
+news.yahoo.co.jp##.hdSMPxex7sP7qwbE1rJD
+news.yahoo.co.jp###yads-timeline-84833_582277-84833_582282-84833_582283-15
+news.yahoo.co.jp###yads-timeline-84833_582277-84833_582282-84833_582283-10
+news.yahoo.co.jp###yads-timeline-84833_582277-84833_582282-84833_582283-6
+news.yahoo.co.jp###yads-timeline-84833_582277-84833_582282-84833_582283-0
+news.yahoo.co.jp###yads-timeline-84833_582277-84833_582282-84833_582283-0 > .yjcrsl_ad
+news.yahoo.co.jp###yads-timeline-84833_582277-84833_582282-84833_582283-0 > .yjcrsl_ad > .yjcrsl_inner > .yjcrsl_wrapper
+news.yahoo.co.jp###yads-timeline-84833_582277-84833_582282-84833_582283-0 > .yjcrsl_ad > .yjcrsl_inner > .yjcrsl_wrapper > .yjcrsl_card_2.yjcrsl_card
+news.yahoo.co.jp###yads-timeline-84833_582277-84833_582282-84833_582283-0 > .yjcrsl_ad > .yjcrsl_inner > .yjcrsl_wrapper > .yjcrsl_card_2.yjcrsl_card > .yjcrsl_text_area
+news.yahoo.co.jp###yads-timeline-84833_582277-84833_582282-84833_582283-0 > .yjcrsl_ad > .yjcrsl_inner > .yjcrsl_wrapper > .yjcrsl_card_1.yjcrsl_card
+news.yahoo.co.jp###yads-timeline-84833_582277-84833_582282-84833_582283-0 > .yjcrsl_ad > div > .yjcrsl_principal
+news.yahoo.co.jp###yads-timeline-84833_582277-84833_582282-84833_582283-0 > .yjcrsl_ad > .yjcrsl_inner > .yjcrsl_wrapper > .yjcrsl_card_1.yjcrsl_card > .yjcrsl_text_area
+news.yahoo.co.jp###yads-timeline-84833_582277-84833_582282-84833_582283-0 > .yjcrsl_ad > .yjcrsl_button
+news.yahoo.co.jp###yads-timeline-84833_582277-84833_582282-84833_582283-0 > .yjcrsl_ad > .yjcrsl_label
+news.yahoo.co.jp###yads_39520_286468_ad_frame
+news.yahoo.co.jp###yads_39520_580573_ad_frame
+gizmodo.jp##.l-videoArea
+gizmodo.jp###google_ads_iframe_\/15055520\/sp_gizmodo_bottom_0__container__
+gizmodo.jp##div[style="margin-top:1.5em;margin-bottom:1.5em;display:flex;justify-content:center"]
+gizmodo.jp###google_ads_iframe_\/15055520\/sp_gizmodo_article_under_0__container__
+gizmodo.jp###google_ads_iframe_\/15055520\/sp_gizmodo_inread_fix_0__container__
+gizmodo.jp##.dfp-bnr.dfp-bnr--inread
+gizmodo.jp###in-read
+gizmodo.jp##gStickyAd
+gizmodo.jp##.p-videoContainer
+gizmodo.jp###google_ads_iframe_\/15055520\/pc_gizmodo_2nd_billboard_0__container__
+gizmodo.jp##.l-ad
+gizmodo.jp###bnBillboardCloseButton
+gizmodo.jp##div[style="line-height:0"]
+gizmodo.jp###gizmodo2017_normal-0
+japan.cnet.com###\31 0716_9757
+japan.cnet.com##.right-ad-block
+japan.cnet.com###\31 0713_9757
+japan.cnet.com###\31 0712_9757
+japan.cnet.com###\31 0714_9757
+gigazine.net##div-gpt-ad-1524101924592-0
+news.yahoo.co.jp##a[style="-webkit-box-sizing: border-box; background: none; background-color: #fff; border: none; border-color: #ccc; border-style: none; border-width: 1px 0 0; box-sizing: border-box; display: block; float: none; height: 100%; line-height: inherit; margin: 0; opacity: 1; overflow: hidden; padding: 0px; position: inherit; text-decoration: none; visibility: visible; width: auto; word-break: break-all;"]
+news.yahoo.co.jp##.sc-eoYxSI.dDhenB
+news.yahoo.co.jp##.sc-jTosDM.dsdref
+news.yahoo.co.jp##.CommentFloating__ComponentBalloon-eHpXgB.kJGOFz
+news.yahoo.co.jp##.CommentFloatingCommentItem__Link-cnkaRR.inyLFG
+nlab.itmedia.co.jp##div[style="text-align:center;margin:40px 0;"]
+nlab.itmedia.co.jp###globalHeader
+nlab.itmedia.co.jp##.gad
+nlab.itmedia.co.jp###googleAd_nativePR
+nlab.itmedia.co.jp###google_ads_iframe_\/43042345\/01_nlab_nativePR_0
+nlab.itmedia.co.jp###google_ads_iframe_\/43042345\/nlab_SS_2_0
+nlab.itmedia.co.jp##.OUTBRAIN
+nlab.itmedia.co.jp###outbrain_widget_0
+nlab.itmedia.co.jp##._popIn_recommend_container
+nlab.itmedia.co.jp###_popIn_standard_div
+nlab.itmedia.co.jp##._popIn_recommend_articles
+nlab.itmedia.co.jp##.ob-widget-items-container
+nlab.itmedia.co.jp##.ob-widget-section.ob-first
+nlab.itmedia.co.jp##.colBoxClear.h10px
+nlab.itmedia.co.jp##.colBoxClear.h15px
+nlab.itmedia.co.jp###google_ads_iframe_\/43042345\/nlab_main_horizontal_0__container__
+nlab.itmedia.co.jp##.colBoxClear.h20px
+nlab.itmedia.co.jp###google_ads_iframe_\/43042345\/nlab_belowART_right_0__container__
+nlab.itmedia.co.jp###google_ads_iframe_\/43042345\/nlab_inRead_0
+nlab.itmedia.co.jp###pc_overlay_btn
+nlab.itmedia.co.jp###google_ads_iframe_\/43042345\/nlab_overlay_0__container__
+trafficnews.jp##.ob-widget.ob-feed-layout.AR_3
+trafficnews.jp##.article-middle
+trafficnews.jp##.box-left
+trafficnews.jp###side-fix
+trafficnews.jp##div[style="min-height:280px;"]
+trafficnews.jp###google_ads_iframe_\/62532913\,99741332\/p_trafficnews_336x280_kijinaka_7311_0
+trafficnews.jp###fluct-pc-sticky-ad
+trafficnews.jp###\35 9576_197891
+trafficnews.jp##div[style="text-align:center;"]
+trafficnews.jp###div-gpt-ad-1511326025718-6
+trafficnews.jp###div-gpt-ad-1511326025718-2
+trafficnews.jp##.ad-large-big
+trafficnews.jp###div-gpt-ad-1511326025718-0
+itmedia.co.jp###div-gpt-ad-PC_above-art-SpecialLink
+itmedia.co.jp###google_ads_iframe_\/43042345\/mobile\/PC_above-art-SpecialLink_0__container__
+detail.chiebukuro.yahoo.co.jp###position_sqb_ad_frame
+news.mynavi.jp##.articleBnr_ydn.gtm
+news.mynavi.jp###google_ads_iframe_\/6082618\/mn\.articlebottom2_0
+news.mynavi.jp###div-gpt-ad-1479185899023-16
+news.mynavi.jp###google_ads_iframe_\/6082618\/mn\.recb_0
+news.mynavi.jp###div-gpt-ad-1479185899023-14
+news.mynavi.jp##.headerBillboard.js-headerBillboard
+news.mynavi.jp###google_ads_iframe_\/6082618\/mn\.billboard_0__container__
+news.mynavi.jp##.articleBnr_list
+news.mynavi.jp##.overLayBnr_close.js-overLayBnr_close
+news.mynavi.jp###google_ads_iframe_\/6082618\/mn\.overlay_0__container__
+news.mynavi.jp##.print-no.articleAd
+news.mynavi.jp###div-gpt-ad-1466143984602-1
+detail.chiebukuro.yahoo.co.jp##.yads_ad.yads_ad_res_s
+detail.chiebukuro.yahoo.co.jp##.yads_ad.yads_ad_res_l
+detail.chiebukuro.yahoo.co.jp##.yads_ad_item.yads_ad_item_res_l.yads_ad_item_has_image
+detail.chiebukuro.yahoo.co.jp###position_underMr_ad_frame
+detail.chiebukuro.yahoo.co.jp###position_ydn_ad_frame
+detail.chiebukuro.yahoo.co.jp##.Detail_chie-Pages__SubColumnSectionMulti__3y0rm
+detail.chiebukuro.yahoo.co.jp###lrecArea
+detail.chiebukuro.yahoo.co.jp###position_middleMr_ad_frame
+detail.chiebukuro.yahoo.co.jp##.Detail_chie-Pages__AdOverlayInner__1gD8a
+itmedia.co.jp###div-gpt-ad-SP_article_below-art-Rectangle_2
+itmedia.co.jp###google_ads_iframe_\/43042345\/mobile\/SP_article_below-art-Rectangle_2_0__container__
+itmedia.co.jp###google_ads_iframe_\/43042345\/mobile\/SP_article_overlay_0__container__
+itmedia.co.jp###div-gpt-ad-SP_article_below-sum-Rectangle
+itmedia.co.jp###div-gpt-ad-PC_article_bottom-Rectangle_right
+itmedia.co.jp###google_ads_iframe_\/43042345\/mobile\/PC_article_bottom-Rectangle_right_0__container__
+itmedia.co.jp###div-gpt-ad-PC_article_bottom-Rectangle_left
+itmedia.co.jp###google_ads_iframe_\/43042345\/mobile\/PC_article_bottom-Rectangle_left_0__container__
+itmedia.co.jp###div-gpt-ad-PC_article_below-art-Rectangle_right
+itmedia.co.jp###div-gpt-ad-PC_article_below-art-Rectangle_left
+itmedia.co.jp###google_ads_iframe_\/43042345\/mobile\/PC_article_below-art-Rectangle_left_0__container__
+itmedia.co.jp###google_ads_iframe_\/43042345\/mobile\/PC_article_below-art-Rectangle_right_0__container__
+itmedia.co.jp##.delivery
+itmedia.co.jp###InRead
+itmedia.co.jp###google_ads_iframe_\/43042345\/mobile\/PC_InRead_0
+itmedia.co.jp###google_ads_iframe_\/43042345\/mobile\/PC_article_rcol_bottom-Rectangle_0
+itmedia.co.jp###div-gpt-ad-PC_rcol_Rectangle_2
+itmedia.co.jp###google_ads_iframe_\/43042345\/mobile\/PC_article_rcol_Rectangle_2_0
+itmedia.co.jp###div-gpt-ad-PC_SuperBanner
+itmedia.co.jp###google_ads_iframe_\/43042345\/mobile\/PC_article_SuperBanner_0__container__
+itmedia.co.jp###PC_rcol_Rectangle2
+itmedia.co.jp###google_ads_iframe_\/43042345\/top\/PC_rcol-Rectangle2_0
+itmedia.co.jp###PC_rcol_Rectangle
+itmedia.co.jp###google_ads_iframe_\/43042345\/top\/PC_rcol-Rectangle_0
+minecraft.fandom.com##.AgeGateDialog-module_dialog__uZt4G
+minecraft.fandom.com##.Modal_overlay__7pQwi.AgeGateDialog-module_overlay__aPtu5
+irasutoya.com##.entryadwrapperhome2
+irasutoya.com##.entryadwrapperhome
+yahoo.co.jp###ssp_ydn_82399_269466_ad_frame
+irasutoya.com##.entryadwrapperlabel
+irasutoya.com##.splink
+irasutoya.com##.adsbygoogle
+irasutoya.com###aswift_0_host
+itmedia.co.jp###div-gpt-ad-PC_rcol_Rectangle
+itmedia.co.jp###google_ads_iframe_\/43042345\/pcuser\/PC_article_rcol_Rectangle_0
+news.yahoo.co.jp##.sc-bGlEWM.hZOuVm
+kakaku.com##.bnSuper
+kakaku.com###google_ads_iframe_\/116070306\/k\/itemlist\/728x90_0
+news.yahoo.co.jp##.sc-hgRoQI.dMVCeu
+news.yahoo.co.jp##.sc-hsFfTn.eqIssN
+keicars-maniac.com##.sidebar-scroll
+keicars-maniac.com###sidebar-scroll
+keicars-maniac.com###sas_iframe_26323
+keicars-maniac.com##.adsbygoogle
+keicars-maniac.com###aswift_2_host
+shado.cocolog-nifty.com##div[style="line-height:100%;text-align:center;"]
+shado.cocolog-nifty.com###cocolog-fpa-content-inner
+shado.cocolog-nifty.com##iframe[style="border: 0px none;"]
+shado.cocolog-nifty.com###cto_iframe_crt-1591451
+moneypost.jp###div-gpt-ad-1521008340976-6
+moneypost.jp###google_ads_iframe_\/18319668\/moneypost-pc\/rectangle-premium_300x250_article_0
+moneypost.jp##.st-GlobalNav_Ad
+moneypost.jp###div-gpt-ad-1521008340976-0
+moneypost.jp###google_ads_iframe_\/18319668\/moneypost-pc\/banner-super_728x90_article_0
+news.yahoo.co.jp##.sc-kAeONC.gBQUqd
+news.yahoo.co.jp##.sc-eVedaM.bzdSnS
+amazon.co.jp##.copilot-secure-display.celwidget.text\/x-dacx-safeframe
+amazon.co.jp###ape_Detail_desktop-detail-ilm_desktop_placement
+newsdig.tbs.co.jp###google_ads_iframe_\/83555300\,22647300394\/TBStelevision\/newsdig\/TND_pc_article_underarticle_0__container__
+newsdig.tbs.co.jp##.insert_ads.insert_ads-48.rendered
+newsdig.tbs.co.jp###ats-insert_ads_flexible-7-0-wrapper
+newsdig.tbs.co.jp##.insert_ads.insert_ads-7.rendered
+newsdig.tbs.co.jp###ats-insert_ads-6-wrapper
+newsdig.tbs.co.jp###google_ads_iframe_\/83555300\,22647300394\/TBStelevision\/newsdig\/TND_pc_article_undertitle_0__container__
+newsdig.tbs.co.jp###TND_pc_all_footeroverlay
+newsdig.tbs.co.jp##.custom-overlay-bottom-close-button
+newsdig.tbs.co.jp###google_ads_iframe_\/83555300\,22647300394\/TBStelevision\/newsdig\/TND_pc_article_footer_YDN_0__container__
+newsdig.tbs.co.jp##.g-sub-live.l-lg-mb-8
+newsdig.tbs.co.jp###google_ads_iframe_\/83555300\,22647300394\/TBStelevision\/newsdig\/TND_pc_article_underread_0__container__
+newsdig.tbs.co.jp###google_ads_iframe_\/83555300\,22647300394\/TBStelevision\/newsdig\/TND_pc_all_right_1st_0__container__
+newsdig.tbs.co.jp##.article-header.u-wf-noto
+news.yahoo.co.jp##.sc-eLSNWZ.gddWyx
+news.yahoo.co.jp##.LiveStream__Inner-YwiFQ.cOPgMc.bbc
+dic.pixiv.net##.d_header
+haruru29.net##.adsbygoogle
+haruru29.net###aswift_1_host
+ascii.jp###logly-lift-widget-content-ad-wrap
+ascii.jp###artAds
+ascii.jp##.uz-ascii_pc.uz-ar
+ascii.jp###uz-ascii_pc-0
+||cdn.sp.gmossp-sp.jp
+||sp.gmossp-sp.jp
+||widget.jp2.as.criteo.com
+||ads.as.criteo.com
+||imprsgmp.taboola.com
+||api.intentiq.com
+||gum.criteo.com
+||tpc.googlesyndication.com
+||pagead2.googlesyndication.com
+||sg-match.taboola.com
+||ads.pubmatic.com
+||image6.pubmatic.com
+||ssum.casalemedia.com
+||hb.adingo.jp
+||cdn.taboola.com
+||platform.twitter.com
+||imprhkmp.taboola.com
+||15.taboola.com
+||hk-match.taboola.com
+||jp-u.openx.net
+||fls.doubleclick.net
+||fls.doubleclick.netfls.doubleclick.net
+||cf.im-apps.net
+||widgets.outbrain.com
+||yads.yjtag.yahoo.co.jp
+||apis.google.com
+||dt.adsafeprotected.com
+||speee-ad.akamaized.net
+||aads.ascii.jp
+aside.subSec:nth-child(1)
+aside.mainSec:nth-child(5)>div:nth-child(1)>div:nth-child(1)
+||yads.c.yimg.jp
+||aid.send.microad.jp
+||i2ad.jp/customer/ads/ad.php?id=f1mjOkciuN1aGrpBREoUXQ&inner=1
+news.livedoor.com##div-gpt-ad
+##*[id="div-gpt-ad-1681544787658-0"]
+news.livedoor.com###div-gpt-ad-1681544787658-0
+||dsb.yahoo.co.jp/api/v1/clear.gif
+||sg-trc-events.taboola.com
+||beacon.taboola.com
+||trc.taboola.com
+||pm-widget.taboola.com
+||cdn.microad.jp
+carsensor.net##.scrollLock.scrollLock--hasPhoneNumberQR
+news.denfaminicogamer.jp###zzz
+news.denfaminicogamer.jp##.inner-widget.steam
+news.denfaminicogamer.jp##div[style="display:flex;justify-content:center;margin:24px 0;min-height:250px;"]
+x.com##.css-175oi2r.r-qklmqi.r-jxzhtn.r-3pj75a.r-tskmnb.r-13qz1uu
+transit.yahoo.co.jp###\34 6030_119983
+transit.yahoo.co.jp##.pos-infeed
+pixiv.net###adsdk--r0
+pixiv.net##.sc-171jvz-0.sc-zfvkpm-0.gcrJTU.jqMLBd
+dic.nicovideo.jp###ads_1082_nmUDu_1743366941821
+dic.nicovideo.jp##iframe[src="https://ads.nicovideo.jp/bannertext?bannerid=91006&frameId=&zoneid=1082"]
+dic.nicovideo.jp##.ad-bannar-maincolumn-top
+shinpi-gadget.com###before-footer
+shinpi-gadget.com##.footer-fixed.pt-active
+kuruma-news.jp##.box300.left
+pixiv.net##div:matches-attr("id"="/adsdk/")
+watch.impress.co.jp##.ad.billboard
+watch.impress.co.jp##div[style="min-height: 250px;"]
+pixiv.net###adsdk--re
+itmedia.co.jp###PC_upp-in-feed-Native_1
+itmedia.co.jp###PC_upp-in-feed-Native_2
+internet.watch.impress.co.jp.site
+internet.watch.impress.co.jp###.site
+internet.watch.impress.co.jp##.recommend.topics.list
+internet.watch.impress.co.jp##.group.type-1
+internet.watch.impress.co.jp###internet-amazon-ranking
+internet.watch.impress.co.jp##.announce-block
+watch.impress.co.jp##.amazon-ranking
+pc.watch.impress.co.jp###pc-amazon-ranking
+pc.watch.impress.co.jp##.announce-block
+pc.watch.impress.co.jp##.group.type-1
+pc.watch.impress.co.jp##.topics.list.special
+news.livedoor.com###div-gpt-ad-1751422204689-0
+k-tai.watch.impress.co.jp###gpt-div-ipc-watch-all-pc-pd001
+k-tai.watch.impress.co.jp###k-tai-amazon-ranking
+k-tai.watch.impress.co.jp##.announce-block
+||analytics.google.com
+! 2024-02-20 https://ascii.jp
+! 2024-02-20 https://news.yahoo.co.jp
+! 2024-02-19 https://news.yahoo.co.jp
+! 2024-02-17 https://news.yahoo.co.jp
+! 2024-02-16 https://news.yahoo.co.jp
+! 2024-02-15 https://news.yahoo.co.jp
+! 2024-02-14 https://news.yahoo.co.jp
+! 2024-02-14 https://detail.chiebukuro.yahoo.co.jp
+! 2024-02-12 https://news.yahoo.co.jp
+! 2024-02-11 https://news.yahoo.co.jp
+! 2024-02-10 https://www.nikkei.com
+! 2024-02-10 https://news.yahoo.co.jp
+! 2024-02-09 https://news.yahoo.co.jp
+! 2024-02-07 https://news.yahoo.co.jp
+! 2024-01-23 https://news.yahoo.co.jp
+! 2024-01-21 https://news.yahoo.co.jp
+! 2024-01-18 https://news.yahoo.co.jp
+! 2024-01-16 https://news.yahoo.co.jp
+! 2024-01-12 https://news.yahoo.co.jp
+! 2024-01-04 https://news.yahoo.co.jp
+! 2024-01-03 https://news.yahoo.co.jp
+! 2023-12-27 https://news.yahoo.co.jp
+! 2023-12-26 https://news.yahoo.co.jp
+ascii.jp##.ad_gam
+ascii.jp###asj_all_1r_gam
+ascii.jp###google_ads_iframe_\/21852659302\/asj_all_1r_gam_0
+minkara.carview.co.jp##.overlay-ad.js-animation
+carview.yahoo.co.jp###ydn-overlay_ad_frame
+carview.yahoo.co.jp###ad-lrec
+carview.yahoo.co.jp###ad-lrec_ad_frame
+nlab.itmedia.co.jp###browsi_adContainer_ai_0_ati_1_rc_0
+nlab.itmedia.co.jp##.browsi_adv_0
+nlab.itmedia.co.jp###browsi_adv_0
+nlab.itmedia.co.jp###google_ads_iframe_\/43042345\/nlab_res_article_browsi_1_0__container__
+nlab.itmedia.co.jp###browsi_ad_0_ai_1_rc_0
+nlab.itmedia.co.jp##.browsi_admarking
+nlab.itmedia.co.jp###browsi_admarking_0
+nlab.itmedia.co.jp##.logly-lift-ad.logly-lift-ad-art.logly-lift-ad-2.logly-lift-ad-num-2.logly-lift-loaded
+nlab.itmedia.co.jp##.yads_ad.yads_ad_res_s
+nlab.itmedia.co.jp##.logly-lift-ad.logly-lift-ad-num-7.logly-lift-loaded
+nlab.itmedia.co.jp##.logly-lift-ad.logly-lift-ad-num-5.logly-lift-loaded
+nlab.itmedia.co.jp###browsi_adWrapper_ai_3_ati_1_rc_0
+nlab.itmedia.co.jp###browsi_adWrapper_ai_2_ati_1_rc_0
+nlab.itmedia.co.jp###browsi_adContainer_ai_1_ati_1_rc_0
+nlab.itmedia.co.jp##.browsi_adv_1
+nlab.itmedia.co.jp###browsi_adv_1
+nlab.itmedia.co.jp###google_ads_iframe_\/43042345\/nlab_res_article_browsi_2_0__container__
+nlab.itmedia.co.jp##.bannar
+nlab.itmedia.co.jp###google_ads_iframe_\/43042345\/nlab_res_artinsert_RT_1_0__container__
+nlab.itmedia.co.jp###google_ads_iframe_\/43042345\/nlab_res_overlay_0__container__
+news.yahoo.co.jp##div[style="margin:0;padding:0;position:relative;"]
+news.yahoo.co.jp##.yads_ad.yads_ad_item_1.yads_ad_spn_large.yads_ad_res_l.yads_ad_item_1_res_l.yads_ad_spn_large_res_l
+news.yahoo.co.jp##.yads_ad_info.yads_ad_info_res_l
+news.yahoo.co.jp##.yads_ad_item.yads_ad_item_res_l.yads_ad_item_has_image
+news.yahoo.co.jp##.yads_ad_img.yads_ad_img_res_l
+news.yahoo.co.jp##div[style="margin:8px; font-size:0; text-align:center;"]
+news.yahoo.co.jp##.yads_ad_inner_2_video
+news.yahoo.co.jp##.yads_ad_inner_1_video
+jma.go.jp##.ad-pc
+weathernews.jp###browsi_adContainer_ai_700_ati_1_rc_0
+weathernews.jp###google_ads_iframe_\/284705699\/Onebox\/Onebox_btf2_pc_0__container__
+weathernews.jp##div[style="display: grid; grid-column: span 2;"]
+weathernews.jp###browsi_adWrapper_ai_600_ati_1_rc_0
+weathernews.jp###browsi_adContainer_ai_0_ati_1_rc_0
+weathernews.jp###google_ads_iframe_\/284705699\/Onebox\/Onebox_btm_0
+weathernews.jp##.pc
+weathernews.jp###div-gpt-ad-1603093335136-0
+weathernews.jp###google_ads_iframe_\/284705699\/Onebox\/Onebox_btf_pc_0
+weathernews.jp###browsi_adContainer_ai_1_ati_1_rc_0
+weathernews.jp###google_ads_iframe_\/284705699\/browsi\/browsi_PC_rec01_0__container__
+weathernews.jp###google_ads_iframe_\/284705699\/browsi\/browsi_PC_rec02_0
+weathernews.jp##.ad-box
+weathernews.jp###div-gpt-ad-1658294899747-0
+weathernews.jp###google_ads_iframe_\/284705699\/Onebox\/Onebox_atf_pc_0__container__
+weathernews.jp###google_ads_iframe_\/284705699\/MWS\/Top_btm2_0
+weathernews.jp###div-gpt-ad-1609113730521-0
+weathernews.jp###google_ads_iframe_\/284705699\/MWS\/Top_below_forecast_0__container__
+weathernews.jp###google_ads_iframe_\/284705699\/Onebox\/Onebox_stickyad_pc_0__container__
+weathernews.jp###google_ads_iframe_\/284705699\/MWS\/Top_btm_0__container__
+weathernews.jp###google_ads_iframe_\/284705699\/MWS\/Top_btf_0
+tenki.jp###ymap_footer_ad
+tenki.jp###div-gpt-ad-1414558120743-0
+tenki.jp###google_ads_iframe_\/11384922\/pc_gomap_0
+tenki.jp##.tenki-ad-pc-ct
+tenki.jp###tenki-ad-PC_CT
+tenki.jp###google_ads_iframe_\/11384922\/PC_CT_0
+tenki.jp##.tenki-ad-3rd-pd
+tenki.jp###tenki-ad-3rd_PD
+tenki.jp###google_ads_iframe_\/11384922\/3rd_PD_0__container__
+tenki.jp##.tenki-ad-pd
+tenki.jp###tenki-ad-1st_PD
+tenki.jp###google_ads_iframe_\/11384922\/1st_PD_0
+sora.5ch.net##div[style="width: 320px; max-width: 320px; min-width: 320px; height: 250px; display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 0px auto;"]
+sora.5ch.net##div[style="width: 300px; max-width: 300px; min-width: 300px; height: 600px; display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 0px auto;"]
+pug.5ch.net##div[style="width: 320px; max-width: 320px; min-width: 320px; height: 250px; display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 0px auto;"]
+pug.5ch.net##div[style="width: 300px; max-width: 300px; min-width: 300px; height: 600px; display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 0px auto;"]
+5ch.net###SideRailSquare1
+5ch.net###SideRail3
+5ch.net###SideRail2
+5ch.net##div[style="width: 320px; max-width: 320px; min-width: 320px; height: 600px; display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 0px auto;"]
+5ch.net###rich-media-placement1
+5ch.net###SideRail1
+5ch.net##.vm-placement
+5ch.net###vm-av
+mainichi.jp###ad-pc-channel-rec1
+mainichi.jp###google_ads_iframe_\/41213723\/PC\/channel\/rec1_0
+mainichi.jp###google_ads_iframe_\/41213723\/PC\/article\/inread_0__container__
+mainichi.jp###ad-pc-article-infeed_right
+mainichi.jp###google_ads_iframe_\/41213723\/PC\/article\/rec2_0__container__
+mainichi.jp###ad-pc-article-rec1
+mainichi.jp###google_ads_iframe_\/41213723\/PC\/article\/rec1_0__container__
+mainichi.jp###google_ads_iframe_\/41213723\/PC\/top\/rec1_0__container__
+asahi.com##.o6B2w
+asahi.com###yahoo_ad
+asahi.com##div[style="display:block;position:initial;background:none;border:none;float:none;width:auto;height:auto;margin:0;opacity:1;padding:0;line-height:1;font-size:11px;font-weight:normal;color:inherit;top:auto;bottom:auto;left:auto;right:auto;visibility:inherit;-webkit-text-size-adjust:none;text-align:right;"]
+asahi.com##.yads_ad_adv.yads_ad_adv_text
+asahi.com##.yads_ad_desc.yads_ad_desc_text
+asahi.com##.yads_ad_title.yads_ad_title_text
+asahi.com##.Ad.vpr9n
+asahi.com##.InReadCenter
+asahi.com##.REAuW
+asahi.com##.ob-widget-items-container
+asahi.com##.AdMod
+asahi.com###google_ads_iframe_\/57465213\/www\.asahi\.com\/PC\/article\/1st_rect_0
+globe.asahi.com##.module-side-ad
+globe.asahi.com###google_ads_iframe_\/57465213\/vm\/globe\/PC\/rect01_0
+asahi.com##.fixed.show
+asahi.com###Tsuibi
+asahi.com##.l-section.p-rectangleAd
+asahi.com###google_ads_iframe_\/57465213\/www\.asahi\.com\/PC\/top\/1st_rect_0
+asahi.com###HometopAdOuter
+yomiuri.co.jp##.home-2020-ntvnews-ad
+yomiuri.co.jp###google_ads_iframe_\/51343015\/yol2020\/open_area\/YOL_middle-rec2_0
+yomiuri.co.jp###google_ads_iframe_\/51343015\/yol2020\/open_area\/YOL_middle-rec1_0
+yomiuri.co.jp##.p-ad-dfp-middle-rec
+yomiuri.co.jp##.ob-widget-section.ob-first
+yomiuri.co.jp###ad_dfp_news-txt1
+yomiuri.co.jp###ad_dfp_news-txt2
+yomiuri.co.jp##.ob-dynamic-rec-container.ob-recIdx-0.ob-o.ob-oc
+yomiuri.co.jp##.p-ad-dfp-premiumrec
+yomiuri.co.jp###ad_dfp_premiumrec
+yomiuri.co.jp##.ads_inview
+yomiuri.co.jp###ad_rec2_area
+yomiuri.co.jp###google_ads_iframe_\/51343015\/yol2020\/open_area\/YOL_rec2_0
+yomiuri.co.jp##.news-top-latest__ad
+yomiuri.co.jp##.ad_inview
+yomiuri.co.jp###ad_dfp_banner
+yomiuri.co.jp##.ad
+yomiuri.co.jp###ad_dfp_rec1
+yomiuri.co.jp###google_ads_iframe_\/51343015\/yol2020\/open_area\/YOL_rec1_0__container__
+yomiuri.co.jp##.home-2020-ad-wide
+news.yahoo.co.jp###yads_30357_258851_ad_frame
+news.yahoo.co.jp###yads_61428_15361_ad_frame
+news.yahoo.co.jp###yads_30357_208277_ad_frame
+news.yahoo.co.jp###yads_85285_187195_ad_frame
+news.yahoo.co.jp###yads_61428_243519_ad_frame
+news.yahoo.co.jp##.sc-iiBnNu.jFPctD
+news.yahoo.co.jp##.sc-fGgQJw.cvuikC
+news.yahoo.co.jp##.yvpub-player.yjads_priority_3
+news.yahoo.co.jp##div[style="width: 640px; height: 360px; text-align: left; position: relative; z-index: 1; margin: auto; overflow: hidden;"]
+saleinfo.tokyo##.adsbygoogle.adsbygoogle-noablate
+saleinfo.tokyo###aswift_10_host
+lenovo.com##.Q15539_popup
+lenovo.com###img_header
+lenovo.com##.nothanks_div
+news.yahoo.co.jp##.sc-fasAwQ.jOrKKT
+news.yahoo.co.jp##.LiveStream__Inner-YwiFQ.cOPgMc.nnn
+yahoo.co.jp##.yadsStream__main
+yahoo.co.jp##.yadsStream__img
+yahoo.co.jp##.yadsStream__link
+otona-life.com##div[style="position: absolute; width: 100%; height: 100%; left: 0px; top: 0px;"]
+otona-life.com##.logly-lift-ad.logly-lift-ad-ad.logly-lift-loaded
+otona-life.com###logly-lift-4302525-item-5
+otona-life.com##.bottom_fixed_ad
+news.yahoo.co.jp##.FeedAdItem__AdItem-dOXtQi.geoVit
+news.yahoo.co.jp###ad30
+news.yahoo.co.jp##a[style="display:inline-block;position:initial;background:none;border:none;float:none;width:auto;height:19px;margin:0;opacity:1;padding:0;line-height:inherit;font-size:11px;font-weight:normal;color:inherit;top:auto;bottom:auto;left:auto;right:auto;visibility:inherit;-webkit-text-size-adjust:none;cursor:pointer;text-decoration:none;vertical-align:middle;align-items:center;"]
+news.yahoo.co.jp##.yads_ad_item.yads_ad_item_res_s.yads_ad_item_has_image
+weekly.ascii.jp##.adsbygoogle.adsbygoogle-noablate
+weekly.ascii.jp###aswift_7_host
+weekly.ascii.jp##.grippy-host
+freesoft.tvbok.com##.c44_div_center_w.c70_nomark
+appmedia.jp###mntad681676
+appmedia.jp###mntad143077
+appmedia.jp###adroute_ads_adblock_139507_1
+appmedia.jp###mntad763485
+appmedia.jp###overlay_outer
+dic.pixiv.net###div-gpt-ad-1646135517204-0
+dic.pixiv.net###google_ads_iframe_\/21259798\/d_rectangle_side_bottom_0__container__
+dic.pixiv.net###div-gpt-ad-1646135765761-0
+dic.pixiv.net###google_ads_iframe_\/21259798\/d_rectangle_0__container__
+dic.pixiv.net###d_toparticle_flux_ad
+dic.pixiv.net###div-gpt-ad-1669601176546-0
+news.yahoo.co.jp###yads_92617_605855_ad_frame
+kizuna.5ch.net##.push
+kizuna.5ch.net##div[style="position: absolute;bottom: 0;left: 0;right: 0;margin: 0 auto;width: 768px;height: 106px;padding: 8px 32px 8px 8px;background: rgba(000, 000, 000, 0.2);"]
+w.atwiki.jp##.atwiki-ads-margin.atwiki-text-center.uk-text-center
+nlab.itmedia.co.jp###google_ads_iframe_\/43042345\/nlab_sb_728_90_0
+nlab.itmedia.co.jp###google_ads_iframe_\/43042345\/nlab_3rdRT_300_250_0
+nlab.itmedia.co.jp###google_ads_iframe_\/43042345\/nlab_artinsert_RT_2_0
+nlab.itmedia.co.jp###google_ads_iframe_\/43042345\/nlab_bottom_0
+nlab.itmedia.co.jp###google_ads_iframe_\/43042345\/nlab_belowART_left_0
+nlab.itmedia.co.jp###google_ads_iframe_\/43042345\/nlab_1stRT_300_250_0
+news.yahoo.co.jp###yads_26744_15363_ad_frame
+news.yahoo.co.jp##.adWrap
+news.yahoo.co.jp###yads_48264_274127_ad_frame
+ja.wikipedia.org###siteNotice
+ja.wikipedia.org##.frb-inline-close
+ja.wikipedia.org##.frb-inline-main
+gizmodo.jp###pc_giz_video1
+gizmodo.jp###google_ads_iframe_\/15055520\/pc_gizmodo_halfpage_0
+gizmodo.jp###google_ads_iframe_\/15055520\/pc_gizmodo_article_top_billboard_0__container__
+gizmodo.jp##.gz-item-banner.side-rect-1st
+gizmodo.jp###google_ads_iframe_\/15055520\/pc_gizmodo_1st_splashbox_0
+gizmodo.jp###google_ads_iframe_\/15055520\/pc_gizmodo_article_in_top_0
+gizmodo.jp##.post-innerRelated
+gizmodo.jp###article-inner-cxad-1680914384846
+w.atwiki.jp###ads
+ascii.jp###google_ads_iframe_\/21852659302\/asj_all_ol_gam_0
+gizmodo.jp##main.l-generalContent:nth-child(7) > div.l-generalContent-container > div.l-generalContent-primary > article.p-post:first-child > div.p-post-ad:nth-child(8)
+gizmodo.jp###browsi_wrapper_0_ai_1_rc_0
+gizmodo.jp###browsi_wrapper_1_ai_1_rc_0
+gizmodo.jp##main.l-generalContent:nth-child(7) > div.l-generalContent-container > div.l-generalContent-primary > article.p-post:first-child > div.p-post-content:nth-child(9) > div.bfapickup:nth-child(6)
+google.com###taw
+news.livedoor.com##.adsW
+news.livedoor.com###div-gpt-ad-1681271406163-0
+news.livedoor.com###div-gpt-ad-1681455748727-0
+news.livedoor.com##.subSec(1)
+news.livedoor.com##.ads-google-overlay
+news.livedoor.com##.ad-wrapper
+news.livedoor.com###div-gpt-ad-1698299017889-0
+news.livedoor.com###div-gpt-ad-1698299199297-0
+news.yahoo.co.jp##.sc-t8wyrz-0.eygyzD
+news.yahoo.co.jp##.sc-t6dt3r-3.jZyfCb
+news.yahoo.co.jp##.sc-t6dt3r-1.fLAiGD
+ja.wikipedia.org###centralNotice
+ja.wikipedia.org##.cn-fundraising
+en.wikipedia.org##.vector-sitenotice-container
+itmedia.co.jp###SideLink
+news.yahoo.co.jp##.sc-bs4h9t-0.bsLfEk
+itest.5ch.net##iframe[style="overflow: hidden; border: 0px;"]
+news.livedoor.com##aside.subSec:nth-child(1)
+dailyportalz.jp##.page_ad_slot
+itmedia.co.jp##.cmsEmbedded.cmsEmbeddedTweetsOuter
+itmedia.co.jp###ulCommentWidget
+itmedia.co.jp###BelowArtLink
+itmedia.co.jp###BelowArtRectangle
+itmedia.co.jp###PC_SuperBanner
+itmedia.co.jp###PC_lcol-Text_1
+itmedia.co.jp###PC_lcol-Text_2
+itmedia.co.jp###PC_rcol-Rectangle
+itmedia.co.jp###PC_RankText
+itmedia.co.jp###PC_GeneralAD_headline
+itmedia.co.jp###PC_GeneralAD_2
+itmedia.co.jp###PC_rcol-2ndRectangle
+itmedia.co.jp###PC_GeneralAD_3
+itmedia.co.jp###PC_rcol-3rdRectangle
+kakaku.com##.c-ad_frameWrap
+kakaku.com###boxPR300
+pixiv.net##.sc-jn70pf-1.HGFVR
+pixiv.net##.sc-jn70pf-0.ePRNko
+www.amazon.co.jp##div[data-component-type="sp-sponsored-result"]
+news.yahoo.co.jp##.sc-1hyvns6-1.eEMpfR
+news.yahoo.co.jp##.sc-1hyvns6-1.dyvsIs
+news.yahoo.co.jp##.sc-1y0aijw-0.cyaYcX
+moneypost.jp##div[style="min-height: 400px;"]
+kakaku.com##.c-splitBox_cell.c-splitBox_cell-right
+kakaku.com##.p-hot
+google.com##.wPNfjb
+google.com###slim_appbar
+google.com##.WE0UJf
+appmedia.jp###mntad210968
+appmedia.jp##div[style="margin:auto;z-index:99999;"]
+ameblo.jp##._2dsoQeNf
+||t.co
+||analytics.twitter.com
+||gigazine.onesignal.com
+||rtb.adentifi.com
+||events.browsiprod.com
+||cdn.gmossp-sp.jp
+||signal-metrics-collector-beta.s-onetag.com
+||ssl.google-analytics.com
+||get.s-onetag.com
+||dmp.im-apps.net
+||www.google-analytics.com
+||stats.g.doubleclick.net
+||sync6.im-apps.net
+||b6.im-apps.net
+||yield-manager.browsiprod.com
+||ap.lijit.com
+||b.im-apps.net
+||cdn.browsiprod.com
+||media.ylive.jp
+||ad.as.amanad.adtdp.com
+||adfair-analytics.woman.mynavi.jp
+||cse.google.com/adsense
+||pixel.adsafeprotected.com
+||static.adsafeprotected.com
+||micro.rubiconproject.com
+||connect.facebook.net
+||c.amazon-adsystem.com
+||aax.amazon-adsystem.com
+||config.aps.amazon-adsystem.com
+||api.cxense.com
+||aw.dw.impact-ad.jp
+||b92.yahoo.co.jp
+||cdn.cxense.com
+||comcluster.cxense.com
+||csyn.cxense.com
+||dpm.demdex.net
+||frtn.socdm.com
+||id5-sync.com
+||img.ak.impact-ad.jp
+||mab.chartbeat.com
+||mabping.chartbeat.net
+||match.adsrvr.org
+||yads.yahoo.co.jp
+||aax-fe.amazon-adsystem.com
+||amplify.outbrain.com
+||ping.chartbeat.net
+||pixel.quantserve.com
+||rules.quantcount.com
+||scdn.cxense.com
+||secure.quantserve.com
+||static.ads-twitter.com
+||static.chartbeat.com
+||tr.outbrain.com
+||cdn.opecloud.com
+||mediaconsortium.tagger.opecloud.com
+||b.clarity.ms
+||cdn.mxpnl.com
+||cdn.onesignal.com
+||onesignal.com
+||static.cloudflareinsights.com
+||www.clarity.ms
+||static.doubleclick.net
+||cm-widget.nakanohito.jp
+||cm-beacon.nakanohito.jp
+||flux-cdn.com
+||dev.visualwebsiteoptimizer.com
+||a.flux.jp
+||adservice.google.com
+||s.amazon-adsystem.com
+||secure-assets.rubiconproject.com
+||securepubads.g.doubleclick.net
+||u.openx.net
+||google-bidout-d.openx.net
+||ssum-sec.casalemedia.com
+||simage2.pubmatic.com
+||js-sec.indexww.com
+||ad.turn.com
+||acdn.adnxs.com
+||bs.nakanohito.jp
+||cm.g.doubleclick.net
+||exchange.mediavine.com
+||googleads.g.doubleclick.net
+||kakakucom-d.openx.net
+||pixel.rubiconproject.com
+||sin3-ib.adnxs.com
+||www.googleadservices.com
+||eus.rubiconproject.com
+||asia.creativecdn.com
+||lyr.pubmatic.com
+||eb2.3lift.com
+||ads.us.e-planning.net
+||contextual.media.net
+||s-adserver.cxad.cxense.com
+||wave.outbrain.com
+||ib.adnxs.com
+||cache.send.microad.jp
+||mb.moatads.com
+||googleads.g.doubleclick.net/pagead/ads?client=ca-pub-4125693935566671&output=html&h=200&slotname=9881466474&adk=888975974&adf=649253068&pi=t.ma~as.9881466474&w=1057&fwrn=4&lmt=1706785580&rafmt=11&format=1057x200&url=https%3A%2F%2Fchakuwiki.org%2Fwiki%2F%25E3%2582%2582%25E3%2581%2597%25E3%2580%258C%25E3%2583%2597%25E3%2583%25AA%25E3%2582%25AD%25E3%2583%25A5%25E3%2582%25A2%25E3%2580%258D%25E3%2581%258C%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA%25E5%258C%2596%25E3%2581%2595%25E3%2582%258C%25E3%2581%25AA%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E3%2582%2589&wgl=1&dt=1706937543214&bpp=1&bdt=253&idt=181&shv=r20240131&mjsv=m202401310101&ptt=9&saldr=aa&abxe=1&cookie=ID%3D6ed7d4d08056127e%3AT%3D1706937463%3ART%3D1706937463%3AS%3DALNI_MbxYliLLlXJbcl5i6S5eR2nLTW9zA&gpic=UID%3D00000cf74e5a0f70%3AT%3D1706937463%3ART%3D1706937463%3AS%3DALNI_MYsewZIZ72DBfGXpVIBQDa6WG4AvQ&eo_id_str=ID%3D02e2889df8616663%3AT%3D1706937463%3ART%3D1706937463%3AS%3DAA-AfjbHcFczh4GPjSwbC1lvQ52s&prev_fmts=0x0&nras=1&correlator=1910993650338&frm=20&pv=1&ga_vid=2136285336.1706937463&ga_sid=1706937543&ga_hid=948190497&ga_fc=1&rplot=4&u_tz=540&u_his=5&u_h=768&u_w=1366&u_ah=738&u_aw=1366&u_cd=24&u_sd=1&adx=268&ady=378&biw=1349&bih=625&scr_x=0&scr_y=0&eid=44759876%2C44759927%2C42532524%2C44795922%2C95323722%2C31080837%2C95322182%2C95324154%2C95324160&oid=2&pvsid=1953237006231078&tmod=1189319928&uas=0&nvt=1&ref=https%3A%2F%2Fchakuwiki.org%2Fwiki%2F%25E6%25AD%25B4%25E5%258F%25B2%25E3%2581%25AEif%25E6%25A4%259C%25E8%25A8%258E%25E5%25A7%2594%25E5%2593%25A1%25E4%25BC%259A&fc=1920&brdim=-8%2C-8%2C-8%2C-8%2C1366%2C0%2C1382%2C754%2C1366%2C625&vis=1&rsz=%7C%7CEe%7C&abl=CS&pfx=0&fu=128&bc=31&bz=1.01&ifi=2&uci=a!2&fsb=1&dtd=189
+||2f511ec3f8c71616aaaf9d466e25b364.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||335aff1e75ca628986e2fde0a27f9723.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||bd3cec492dd0f77e59fa6d6233411f71.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||0f9454264acf285d39ab63035dfc6dde.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||img1.kakaku.k-img.com/images/ad/adadmin/adimage/202311/97180.jpg
+||img1.kakaku.k-img.com/images/ad/fixedbnr/btn_close_gray.png
+||img1.kakaku.k-img.com/images/ad/adadmin/adimage/202310/95933.jpg
+||53ce8f2a68f8629ed1df684b676be407.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||agree.5ch.net/v/go-to-uplift.png
+||googleads.g.doubleclick.net/pagead/ads?gdpr=0&client=ca-pub-4478613964609822&output=html&h=280&adk=3809598800&adf=1602281170&pi=t.aa~a.1182920990~rp.3&w=1200&fwrn=4&fwrnh=100&lmt=1699627198&rafmt=1&to=qs&pwprc=1063053576&format=1200x280&url=https%3A%2F%2Fgigazine.net%2Fnews%2F20130108-adobe-cs2-download%2F&ea=0&fwr=0&pra=3&rpe=1&resp_fmts=3&wgl=1&fa=40&dt=1699627208062&bpp=3&bdt=5061&idt=3&shv=r20231108&mjsv=m202311020101&ptt=9&saldr=aa&abxe=1&cookie=ID%3D4077fdc3721c4d9d-2206ed2158e300b5%3AT%3D1693308401%3ART%3D1699627203%3AS%3DALNI_MaI97pcCz340HdoCKv4bvvqqZ5r_w&gpic=UID%3D00000c3672b53ee0%3AT%3D1693308401%3ART%3D1699627203%3AS%3DALNI_MY9R8VwPZCZ9lECbpRjptLBuu6Kbg&prev_fmts=0x0&nras=2&correlator=6298713223518&frm=20&pv=1&ga_vid=1516974266.1693308401&ga_sid=1699627206&ga_hid=2138436875&ga_fc=1&u_tz=540&u_his=1&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_sd=1&adx=75&ady=7942&biw=1349&bih=615&scr_x=0&scr_y=5607&eid=44759876%2C44759927%2C31078237%2C44807463%2C31078297%2C44807750%2C44807763%2C44808149&oid=2&pvsid=3527770587707645&tmod=102350900&nvt=1&ref=https%3A%2F%2Fwww.google.com%2F&fc=1920&brdim=-8%2C-8%2C-8%2C-8%2C1366%2C0%2C1382%2C744%2C1366%2C615&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=128&bc=31&psd=W251bGwsbnVsbCxudWxsLDNd&ifi=12&uci=a!c&btvi=1&fsb=1&dtd=M
+||5cfaf92daeeb7c6876dadfc4c657561c.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||img.itmedia.jp/so/images/sa/b/287/293978/301034453/B_240.jpg
+||img.itmedia.jp/so/images/sa/b/287/293978/301034419/nuvoton_rectangle.jpg
+||img.itmedia.jp/so/images/sa/b/287/293978/301034255/mo230602_billboard.jpg
+||img.ak.impact-ad.jp/fh/101571
+||4a0a3eaf9b1dc886f394a2a944c1de80.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||imasdk.googleapis.com/js/core/bridge3.595.0_en.html#goog_1497670648
+||googleads.g.doubleclick.net/pagead/ads?client=ca-pub-4125693935566671&output=html&h=280&adk=55434106&adf=340697596&pi=t.aa~a.2123741110~rp.1&w=1124&fwrn=4&fwrnh=100&lmt=1695203764&rafmt=1&to=qs&pwprc=6846085899&format=1124x280&url=https%3A%2F%2Fchakuwiki.org%2Fwiki%2F%25E3%2582%2582%25E3%2581%2597%25E3%2582%2582%25E5%2580%259F%25E7%25AE%25B1&fwr=0&pra=3&rpe=1&resp_fmts=3&wgl=1&fa=40&dt=1697470898929&bpp=3&bdt=619&idt=1298&shv=r20231011&mjsv=m202310100101&ptt=9&saldr=aa&abxe=1&cookie=ID%3Dde5705b45d55d174-222271c2efe400d8%3AT%3D1697470739%3ART%3D1697470844%3AS%3DALNI_MaT0096kuRbPEi75-39hYt8T9g_Nw&gpic=UID%3D00000c642e2194f6%3AT%3D1697470739%3ART%3D1697470739%3AS%3DALNI_Macr0CJt2vdPGqhMIfhTkKNmqbpYg&prev_fmts=0x0&nras=2&correlator=4034654796134&frm=20&pv=1&ga_vid=499490924.1697470738&ga_sid=1697470899&ga_hid=1261479031&ga_fc=1&u_tz=540&u_his=1&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_sd=1&adx=201&ady=148&biw=1349&bih=615&scr_x=0&scr_y=0&eid=44759875%2C44759926%2C31077327%2C31078830%2C44805113%2C44805918%2C31078301&oid=2&pvsid=2021315581772739&tmod=189519852&nvt=1&ref=https%3A%2F%2Fchakuwiki.org%2Fwiki%2F%25E3%2582%2582%25E3%2581%2597Wiki&fc=1920&brdim=-8%2C-8%2C-8%2C-8%2C1366%2C0%2C1382%2C744%2C1366%2C615&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=128&bc=31&ifi=9&uci=a!9&fsb=1&xpc=6hLQVim9n4&p=https%3A//chakuwiki.org&dtd=1302
+||4c63c9d9d61fab16e706069a4cb47be7.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||googleads.g.doubleclick.net/pagead/ads?client=ca-pub-4125693935566671&output=html&h=200&slotname=9881466474&adk=1512148673&adf=1601546264&pi=t.ma~as.9881466474&w=1102&fwrn=4&lmt=1695271257&rafmt=11&format=1102x200&url=https%3A%2F%2Fchakuwiki.org%2Fwiki%2F%25E3%2582%2582%25E3%2581%2597%25E6%2590%25BA%25E5%25B8%25AF%25E9%259B%25BB%25E8%25A9%25B1%25E3%2581%258C%25E2%2597%258B%25E2%2597%258B%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%25E3%2582%2589&wgl=1&dt=1697470916418&bpp=2&bdt=322&idt=941&shv=r20231011&mjsv=m202310100101&ptt=9&saldr=aa&abxe=1&cookie=ID%3Dde5705b45d55d174-222271c2efe400d8%3AT%3D1697470739%3ART%3D1697470844%3AS%3DALNI_MaT0096kuRbPEi75-39hYt8T9g_Nw&gpic=UID%3D00000c642e2194f6%3AT%3D1697470739%3ART%3D1697470739%3AS%3DALNI_Macr0CJt2vdPGqhMIfhTkKNmqbpYg&prev_fmts=0x0&nras=1&correlator=5142285454632&frm=20&pv=1&ga_vid=499490924.1697470738&ga_sid=1697470917&ga_hid=902430904&ga_fc=1&rplot=4&u_tz=540&u_his=1&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_sd=1&adx=223&ady=1020&biw=1349&bih=615&scr_x=0&scr_y=0&eid=44759927%2C44759837%2C44759876%2C31078238%2C44805112%2C44805918&oid=2&pvsid=2386807367571051&tmod=1613928757&nvt=1&ref=https%3A%2F%2Fchakuwiki.org%2Fwiki%2F%25E3%2582%2582%25E3%2581%2597%25E3%2582%2582%25E5%2580%259F%25E7%25AE%25B1&fc=1920&brdim=-8%2C-8%2C-8%2C-8%2C1366%2C0%2C1382%2C744%2C1366%2C615&vis=1&rsz=%7C%7CEebr%7C&abl=CS&pfx=0&fu=128&bc=31&ifi=2&uci=a!2&btvi=1&fsb=1&xpc=opifZHxS09&p=https%3A//chakuwiki.org&dtd=3683
+||70a790210a448e7045b542131734e7e7.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||dcdcfd9d66851d6261549e17778cb612.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||3ed0ca40f7f28aecadc9e857337a887e.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||437e45a16aeda735791592e2b454e802.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+javascript:"<html><bodystyle='background:transparent;margin:0%;'></body></html>"
+||ads.nicovideo.jp/bannertext?bannerid=91780&frameId=&zoneid=578
+||ad.doubleclick.net/ddm/trackimp/N445203.287513ASCII.JP/B21606637.228030333;dc_trk_aid=426044800;dc_trk_cid=105167861;ord=1566722173;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?$image
+||jp.sharp/products/shv48/index_v3/images/img_index_point_02.jpg$image
+||9518532aea4d6f42398364ee303ee3be.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html$subdocument
+about:blank
+||f610f24bdf4a1284160527c8fec57daf.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||s-adserver.cxad.cxense.com/adserver/search?media=html&asId=00000001667da277&sid=9222321377638424887&useSecureUrls=true&sz=300x250&usi=llis7leryckrty4t&rnd=1612005151&prnd=lm2yxi9qwv92dhjt&tzo=-540&parentElementId=cxWidget_0.5498112863152771
+gigazine.net#div-gpt-ad-1524100786099-0
+||b4afb33358e50f94edc1978ad4c9df9c.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+.box-ad-left>div:nth-child(1)
+.box-ad-left
+||07a6d46e28239753b5ee64bddf205c8d.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||3d20c412ea3f9f8703b4b7bc493e1139.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||c8a5ec8d5632883dbc535a23a9a652b9.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+#div-gpt-ad-1479185899023-14
+||69821c3d845d3c63da659e98ef4774d2.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+#div-gpt-ad-SP_article_below-sum-Rectangle
+#BelowSumRectangle
+div.__adblockplus__overlay:nth-child(3)
+||6c7b14a344cf2f4ff7eef44cd2d48129.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7640247339000071&output=html&h=250&slotname=3461468019&adk=658989963&adf=1742197510&pi=t.ma~as.3461468019&w=250&lmt=1689496020&format=250x250&url=https%3A%2F%2Fwww.irasutoya.com%2Fsearch%3Fq%3D%25E6%259C%25BA&region=Top&host=ca-host-pub-1556223355139109&wgl=1&dt=1689921845609&bpp=26&bdt=1054&idt=254&shv=r20230719&mjsv=m202307170101&ptt=9&saldr=aa&abxe=1&cookie=ID%3Dee9569a94556eda0-225f4b2e70e200d2%3AT%3D1689921129%3ART%3D1689921846%3AS%3DALNI_Ma_aFwJj8XF6EhLTQ0EyWA4JqIyBA&gpic=UID%3D00000cde45559366%3AT%3D1689921129%3ART%3D1689921846%3AS%3DALNI_MYueRcJCWA7fRXDbzhNRDUcE83mEg&correlator=5633427602386&frm=20&pv=2&ga_vid=67768610.1689921128&ga_sid=1689921128&ga_hid=324424817&ga_fc=1&u_tz=540&u_his=2&u_h=800&u_w=1280&u_ah=752&u_aw=1280&u_cd=24&u_sd=1&adx=39&ady=219&biw=1263&bih=639&scr_x=0&scr_y=0&eid=44759875%2C44759926%2C44759842%2C31076087%2C31076178%2C42531705%2C44788442&oid=2&pvsid=1757180526855386&tmod=1982113897&nvt=1&ref=https%3A%2F%2Fwww.irasutoya.com%2F2016%2F01%2Fblog-post_678.html&fc=896&brdim=-8%2C-8%2C-8%2C-8%2C1280%2C0%2C1296%2C768%2C1280%2C639&vis=1&rsz=%7C%7CeE%7C&abl=CS&pfx=0&fu=0&bc=31&ifi=1&uci=a!1&fsb=1&xpc=QgJj3aTFVP&p=https%3A//www.irasutoya.com&dtd=386
+#sas_iframe_fixed_26328
+||googleads.g.doubleclick.net/pagead/ads?gdpr=0&us_privacy=1---&client=ca-pub-3088884606305163&output=html&h=280&slotname=7294296426&adk=3642563337&adf=1318121698&pi=t.ma~as.7294296426&w=791&fwrn=1&fwrnh=100&lmt=1688813219&rafmt=3&format=791x280&url=https%3A%2F%2Fkeicars-maniac.com%2F%3Fp%3D60244&host=ca-host-pub-2644536267352236&fwr=0&fwrattr=false&rpe=1&resp_fmts=1&wgl=1&dt=1688813217732&bpp=27&bdt=7819&idt=1545&shv=r20230705&mjsv=m202307050101&ptt=9&saldr=aa&abxe=1&cookie=ID%3Dfcc6e5bd76376edc-22cbcdaa4ce200bd%3AT%3D1688813198%3ART%3D1688813198%3AS%3DALNI_MY84dvk8Toq03b6QcGMIOfBmNoAkg&gpic=UID%3D00000c1ec69239ea%3AT%3D1688813198%3ART%3D1688813198%3AS%3DALNI_MYm1istBq7JwO3ZOTp2O32Qm6PyYw&prev_fmts=0x0%2C791x280&nras=1&correlator=728927535493&frm=20&pv=1&ga_vid=813296551.1688813193&ga_sid=1688813219&ga_hid=159993167&ga_fc=1&u_tz=540&u_his=1&u_h=800&u_w=1280&u_ah=752&u_aw=1280&u_cd=24&u_sd=1&adx=36&ady=3249&biw=1263&bih=639&scr_x=0&scr_y=2762&eid=44759875%2C44759926%2C44759842%2C31075758%2C31075823%2C31075832%2C44772268%2C44788441&oid=2&pvsid=3725850261129118&tmod=2144310364&nvt=1&ref=https%3A%2F%2Fwww.google.com%2F&fc=1920&brdim=-8%2C-8%2C-8%2C-8%2C1280%2C0%2C1296%2C768%2C1280%2C639&vis=1&rsz=%7C%7CEe%7C&abl=CS&pfx=0&fu=128&bc=31&ifi=3&uci=a!3&fsb=1&xpc=RkZyUnt8bo&p=https%3A//keicars-maniac.com&dtd=1764
+||images-fe.ssl-images-amazon.com/images/S/apesafeframe/ape/sf/whitelisted/desktop/sf-1.50.d65ec4bd.html
+aside.subSec
+.ns-rn08n-e-8
+#google_ads_iframe_\/83555300\,22647300394\/TBStelevision\/newsdig\/TND_pc_all_footeroverlay_0__container__
+#ats-custom-overlay-wrapper
+||youtube.com/embed/nwVfs8pDPI4?enablejsapi=1&autoplay=1&mute=1
+||a8e5ba8a19d503963c7475651fdbee28.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||googleads.g.doubleclick.net/pagead/ads?client=ca-pub-4145699478466148&output=html&h=280&slotname=9887072119&adk=1674483453&adf=947242584&pi=t.ma~as.9887072119&w=700&fwrn=4&fwrnh=100&lmt=1688204929&rafmt=1&format=700x280&url=https%3A%2F%2Fwww.haruru29.net%2Fblog%2Fpost-1971%2F%23google_vignette&fwr=0&fwrattr=true&rpe=1&resp_fmts=3&wgl=1&dt=1688204927825&bpp=3&bdt=2139&idt=1210&shv=r20230627&mjsv=m202306220101&ptt=9&saldr=aa&abxe=1&cookie=ID%3D1b5758b616b977dd-22afe9f95be200ac%3AT%3D1688204914%3ART%3D1688204914%3AS%3DALNI_MZteDDj8E613zJ1W-_1ju3TkqqTuw&gpic=UID%3D00000c89a823f8c4%3AT%3D1688204914%3ART%3D1688204914%3AS%3DALNI_MZjSx4CuOJHHJQOkWeRMwdVbTHHOg&prev_fmts=0x0&nras=1&correlator=977340736834&frm=20&pv=1&ga_vid=1405063344.1688204927&ga_sid=1688204929&ga_hid=1776191621&ga_fc=1&u_tz=540&u_his=2&u_h=800&u_w=1280&u_ah=752&u_aw=1280&u_cd=24&u_sd=1&adx=112&ady=307&biw=1280&bih=639&scr_x=0&scr_y=144&eid=44759926%2C44759842%2C44759875%2C31075642%2C44772268%2C44788442&oid=2&pvsid=494161355399301&tmod=437480001&nvt=1&fc=1920&brdim=-8%2C-8%2C-8%2C-8%2C1280%2C0%2C1296%2C768%2C1280%2C639&vis=1&rsz=%7C%7CeE%7C&abl=CS&pfx=0&fu=128&bc=31&ifi=2&uci=a!2&fsb=1&xpc=8VKMhf46gx&p=https%3A//www.haruru29.net&dtd=1406
+||speee-ad.akamaized.net/tag/ascii_pc/article.html?dto=%7B%22widgetIndex%22%3A0%2C%22widgetId%22%3A%22uz-ascii_pc-0%22%2C%22url%22%3A%22https%253A%252F%252Fascii.jp%252Felem%252F000%252F000%252F336%252F336426%252F%22%2C%22referer%22%3A%22https%253A%252F%252Fwww.google.com%252F%22%2C%22device%22%3A%7B%22deviceType%22%3A1%2C%22osType%22%3A1%7D%2C%22uuid%22%3A%22%22%2C%22mediaZoom%22%3A1%2C%22sessId%22%3A%220.3344332122496691%22%7D
+||37ebf9f5685af30b6c16c7323b404129.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||b7dcb2bbf3c8365b24481bb37b52a19a.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||f1e80af1c9a0eb977532fcd556edeff6.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+nlab.itmedia.co.jp#gpt_unit_\/43042345\/nlab_res_interstitial_0
+||cdn.taboola.com/libtrc/static/video/v1684235578/rvvhyjwcmgqjflopkp2t.mp4
+javascript:window.parent%5B%22bdd65988-227a-5684-e085-28aefc3994c9%22%5D.run(%7Bwnd%3Awindow%2Csjs%3A%22javascript%3A'%3Chtml%3E%3Cbody%3E%3C%2Fbody%3E%3C%2Fhtml%3E'%22%7D)
+||810f926afa037003ad9f2ece08f22c8d.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||bfd89d553efdadf3d8d61098989a23d2.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||1c680cff699c400e986afd955d96ec7b.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||fb4f9b2bb2c5ce8a9a8072e86124e20c.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||cdn.taboola.com/libtrc/static/video/t_PERFORMANCE_VIDEO_DEFAULT/v1611080646/bulhfnwkyonc8hehqipj.mp4
+||dee521017ad9ec48f9d661cb318c1463.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||d69433361db1faff07dddc695d476118.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||imasdk.googleapis.com/js/core/bridge3.578.0_en.html#goog_1877563345
+||googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9882362469169514&output=html&h=90&slotname=1294808124&adk=1229365709&adf=2994852993&pi=t.ma~as.1294808124&w=728&lmt=1686812361&format=728x90&url=https%3A%2F%2Fwww.inasoft.org%2Fwebhelp%2Fsdfr4%2FHLP000102.html&wgl=1&dt=1686812360808&bpp=2&bdt=1103&idt=431&shv=r20230613&mjsv=m202306080101&ptt=9&saldr=aa&abxe=1&cookie=ID%3Dabb9dee82cc03d75-22ca2e9d5fe100bc%3AT%3D1686406032%3ART%3D1686812362%3AS%3DALNI_MZ4eJop-iKGVEY3acmcZ92tbT77aQ&gpic=UID%3D00000c467a77796a%3AT%3D1686406032%3ART%3D1686812362%3AS%3DALNI_MaKGROj4HN92GxU_zJU-N40Nz-ohg&prev_slotnames=5546458657&correlator=3083292899596&frm=20&pv=1&ga_vid=1881356486.1686812361&ga_sid=1686812361&ga_hid=1694299562&ga_fc=0&u_tz=540&u_his=1&u_h=1080&u_w=1920&u_ah=1040&u_aw=1920&u_cd=24&u_sd=1&adx=687&ady=80&biw=1903&bih=927&scr_x=0&scr_y=0&eid=44759926%2C44759837%2C44759875%2C31075258%2C31075298%2C31075305%2C44772269%2C44788441&oid=2&pvsid=949664886233362&tmod=1858597966&nvt=1&ref=https%3A%2F%2Fwww.google.com%2F&fc=640&brdim=-8%2C-8%2C-8%2C-8%2C1920%2C0%2C1936%2C1056%2C1920%2C927&vis=2&rsz=%7C%7CeEr%7C&abl=CS&pfx=0&fu=0&bc=31&ifi=2&uci=a!2&fsb=1&xpc=10AsTqJryK&p=https%3A//www.inasoft.org&dtd=494
+||img.gsspat.jp/e/webp/fbac308261fea22ec89360cf85499750/27d11a9290844a637cc297c5ae7f1146.jpg.webp
+||img.gsspat.jp/e/webp/142f0528ca05d54cac0e1fa6559b94c4/b36c3015696e93c3f49c962d7fa3a76f.jpg.webp
+||img.gsspat.jp/e/webp/142f0528ca05d54cac0e1fa6559b94c4/b844d61ab34822bfd57c1599b59aecd4.jpg.webp
+||img.gsspat.jp/e/webp/142f0528ca05d54cac0e1fa6559b94c4/f16c759a54ba175347a1508d98340a14.jpg.webp
+||pc-adroute.focas.jp/ads/show_page.html?mid=139507&type=1&block=adblock_139507_1&inner_w=1920&inner_h=927&scr_w=1920&scr_h=1080&time=1686028895
+||a5db0801d73375499435cd9ea82c2eaa.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||stab.thench.net/threads/rightside_bottom_160x600?i=2023%2F4%2F16_9%3A26&width=160&height=600
+! 2023-09-18 https://news.mynavi.jp
+! 2023-09-18 https://news.livedoor.com
+! 2023-09-18 https://news.yahoo.co.jp
+! 2023-12-10 https://ascii.jp
+! 2023-12-10 https://news.yahoo.co.jp
+! 2023-11-20 https://news.yahoo.co.jp
+! 2023-10-23 https://tarsama.hatenadiary.com
+! 2023-10-21 https://mikefumi.hatenablog.com
+! 2023-10-16 https://news.yahoo.co.jp
+! 2023-10-16 https://tarsama.hatenadiary.com
+! 2023-10-16 https://ascii.jp
+! 2023-10-15 https://tarsama.hatenadiary.com
+! 2023-10-10 https://tarsama.hatenadiary.com
+! 2023-10-10 https://kazasikipg.hatenablog.com
+! 2023-10-10 https://news.yahoo.co.jp
+! 2023-10-09 https://news.livedoor.com
+! 2023-10-04 https://dic.pixiv.net
+! 2023-10-03 https://president.jp
+! 2023-10-03 https://king.mineo.jp
+! 2023-10-02 https://togetter.com
+! 2023-10-02 https://w.atwiki.jp
+! 2023-09-29 https://h3poteto.hatenablog.com
+! 2023-09-27 https://www.businessinsider.jp
+! 2023-09-27 https://news.yahoo.co.jp
+! 2023-09-27 https://www.moneypost.jp
+||stab.thench.net/threads/thread_overlay_728x90?i=2023%2F4%2F16_9%3A26&width=728&height=90
+||04e0b5dc1296db1bab39e0c7adbd9a10.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||1dbd22119cf99e3c4e765303ef095824.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3656275983609890&output=html&h=280&slotname=3613980603&adk=3940661209&adf=3989585104&pi=t.ma~as.3613980603&w=834&fwrn=1&fwrnh=100&lmt=1681214936&rafmt=1&format=834x280&url=https%3A%2F%2Fwww.sin-space.com%2Fentry%2Fandroidones6&fwr=0&fwrattr=false&rpe=1&resp_fmts=3&wgl=1&dt=1681214898327&bpp=4&bdt=1984&idt=289&shv=r20230406&mjsv=m202304050101&ptt=9&saldr=aa&abxe=1&cookie=ID%3Ddb8d660ad141abb3-22f660c727dd0033%3AT%3D1681214899%3ART%3D1681214899%3AS%3DALNI_MYXm3f22wrZCdu2sI-y4HHQwpcSAA&gpic=UID%3D00000bf295617c22%3AT%3D1681214899%3ART%3D1681214899%3AS%3DALNI_MapiGKzuqEr7ZT_wFXSVzTLw7r7lw&prev_fmts=834x280%2C0x0%2C834x280&nras=1&correlator=323493796100&rume=1&frm=20&pv=1&ga_vid=47137413.1681214898&ga_sid=1681214899&ga_hid=32173134&ga_fc=1&u_tz=540&u_his=1&u_h=1080&u_w=1920&u_ah=1040&u_aw=1920&u_cd=24&u_sd=1&adx=349&ady=24796&biw=1903&bih=927&scr_x=0&scr_y=21233&eid=42532185%2C42532089%2C44759875%2C44759926%2C44759842%2C31071755%2C31061691%2C31061692&oid=2&psts=AHQMDFd93TyGYKfbxSCgUxgE1K55JfCBLJ90eMVSaUGPV_080SsR8uBULzX5cyLmz8L66YSfkTI1woRpVnWbDQiczNGv_g%2CAHQMDFeMu7SUrMej1AoeekAxoSmrZ4fhMvhnn6QIEl9sm1edmhgJ0DarTmqJinSds26x9UzMNiX7eueuDWlfufyKfIZmBzHD&pvsid=644491563072084&tmod=2094061229&nvt=1&ref=https%3A%2F%2Fwww.google.com%2F&fc=896&brdim=-8%2C-8%2C-8%2C-8%2C1920%2C0%2C1936%2C1056%2C1920%2C927&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&pfx=0&fu=128&bc=31&ifi=3&uci=a!3&btvi=2&fsb=1&xpc=tEkefjqmxQ&p=https%3A//www.sin-space.com&dtd=37779
+||069882e27b9cf96288ffc5c2e06df8d1.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||s0.2mdn.net/simgad/1015683394168113842
+||cef5fd77786e341efc804cd8a245aca4.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||30d944daafa354535f8adcfad60a4942.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||66121edfa97ea6f2d4a6e20e6e24119d.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html
+||googlesyndication.com
+||googleads.g.doubleclick.net/pagead/html/r20230920/r20110914/zrt_lookup.html$subdocument
+||1ffe31f72a7f59e2bc7637898eef83ba.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html$subdocument
+! 2023-09-25 https://toshiba.semicon-storage.com
+! 2023-09-25 https://dic.nicovideo.jp
+! 2023-09-25 https://news.yahoo.co.jp
+! 2023-09-25 https://ishichang.hatenablog.com
+! 2023-09-25 https://detail.chiebukuro.yahoo.co.jp
+! 2023-09-25 https://www.itmedia.co.jp
+! 2023-09-25 https://news.mynavi.jp
+! 2023-09-24 https://news.mynavi.jp
+! 2023-09-24 https://nikkan-spa.jp
+! 2023-09-24 https://dic.pixiv.net
+! 2023-09-24 https://www.moneypost.jp
+! 2023-09-24 https://s.rbbtoday.com
+! 2023-09-24 https://www.phileweb.com
+! 2023-09-24 https://mikefumi.hatenablog.com
+! 2023-09-23 https://tasusu.hatenablog.com
+! 2023-09-23 https://kuracinnamon.hateblo.jp
+! 2023-09-23 https://ichizo.hatenablog.com
+! 2023-09-23 https://tarsama.hatenadiary.com
+! 2023-09-23 https://jp.sharp
+! 2023-09-23 https://news.livedoor.com
+! 2023-09-23 https://news.yahoo.co.jp
+! 2023-09-22 https://news.yahoo.co.jp
+! 2023-09-21 https://news.livedoor.com
+! 2023-09-21 https://detail.chiebukuro.yahoo.co.jp
+! 2023-09-21 https://www.news-postseven.com
+! 2023-09-21 https://www.moneypost.jp
+! 2023-09-21 https://news.yahoo.co.jp
+! 2023-09-21 https://www.itmedia.co.jp
+! 2023-09-20 https://www.moneypost.jp
+! 2023-09-19 https://s.kakaku.com
