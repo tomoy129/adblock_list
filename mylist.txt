@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: mylist
 
-k-tai.watch.impress.co.jp##div[style="min-height: 160px;"]
+watch.impress.co.jp##div[style="min-height: 160px;"]
 impress.co.jp##.ad-inline
 impress.co.jp##.ad.rect.r1
 ||www.google-analytics.com
