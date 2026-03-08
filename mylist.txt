@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: mylist
 
+news.yahoo.co.jp##.sc-qhzeq4-0.btxgvl
 watch.impress.co.jp###pc-rakuten-ranking
 watch.impress.co.jp##.ad.rect.acenter
 watch.impress.co.jp##div[style="min-height: 160px;"]
