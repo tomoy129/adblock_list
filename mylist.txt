@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: mylist
 
+watch.impress.co.jp###gpt-div-ipc-watch-all-pc-pd001
 news.yahoo.co.jp##.sc-qhzeq4-0.btxgvl
 watch.impress.co.jp###pc-rakuten-ranking
 watch.impress.co.jp##.ad.rect.acenter
