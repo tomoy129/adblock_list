@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: mylist
 
-
+||epic.wootscratch.com
 ||html-load.cc
 ||ad-delivery.net
 ||ats-wrapper.privacymanager.io
