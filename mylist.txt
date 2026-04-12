@@ -1,6 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: mylist
 
+||ad-delivery.net
+||ats-wrapper.privacymanager.io
+
 watch.impress.co.jp###gpt-div-ipc-watch-all-pc-pd001
 news.yahoo.co.jp##.sc-qhzeq4-0.btxgvl
 watch.impress.co.jp###pc-rakuten-ranking
