@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: mylist
 
+||google.co.jp/ads
 ||epic.wootscratch.com
 ||html-load.cc
 ||ad-delivery.net
