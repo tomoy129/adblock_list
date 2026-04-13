@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: mylist
 
+||cdn.jsdelivr.net/gh/ad-shield/
 ||google.co.jp/ads
 ||epic.wootscratch.com
 ||html-load.cc
