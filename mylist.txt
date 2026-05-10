@@ -242,7 +242,6 @@ news.yahoo.co.jp###yvpubplayer0
 news.yahoo.co.jp###yvpubplayer0 > div > div
 mikefumi.hatenablog.com###globalheader
 news.yahoo.co.jp##.cZhTgx.sc-iODzPY
-tarsama.hatenadiary.com##.article-bar-inner
 kazasikipg.hatenablog.com###globalheader-container
 kazasikipg.hatenablog.com###globalheader
 kazasikipg.hatenablog.com##.is-visible.js-article-bar.article-bar
@@ -294,8 +293,6 @@ tasusu.hatenablog.com##.is-visible.js-article-bar.article-bar
 kuracinnamon.hateblo.jp###globalheader-container
 kuracinnamon.hateblo.jp##.is-visible.js-article-bar.article-bar
 ichizo.hatenablog.com##.is-visible.js-article-bar.article-bar
-tarsama.hatenadiary.com##.is-visible.js-article-bar.article-bar
-tarsama.hatenadiary.com###globalheader-container
 jp.sharp##.shiftup.nv_pagetop
 jp.sharp##.onlinshop_appeal
 news.yahoo.co.jp###yads_8026279-4
