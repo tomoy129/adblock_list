@@ -2,6 +2,10 @@
 ! Title: mylist
 
 trafficnews.jp##.box-ad-left
+trafficnews.jp##.home-pickup
+trafficnews.jp##.premium-posts-title
+trafficnews.jp##.home-premium-content
+trafficnews.jp##.article-meta-box
 
 ||cdn.jsdelivr.net/gh/ad-shield/
 ||google.co.jp/ads
