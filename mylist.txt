@@ -1,6 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: mylist
 
+trafficnews.jp##.box-ad-left
+
 ||cdn.jsdelivr.net/gh/ad-shield/
 ||google.co.jp/ads
 ||epic.wootscratch.com
