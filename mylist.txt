@@ -1,6 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: mylist
 
+watch.impress.co.jp##.adsbygoogle
+
 trafficnews.jp##.box-ad-left
 trafficnews.jp##.home-pickup
 trafficnews.jp##.premium-posts-title
