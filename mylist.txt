@@ -1,6 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: mylist
 
+@@||fb.html-load.com
+||html-load.com
+
 watch.impress.co.jp##.adsbygoogle
 
 trafficnews.jp##.box-ad-left
@@ -11,9 +14,6 @@ trafficnews.jp##.article-meta-box
 
 ||cdn.jsdelivr.net/gh/ad-shield/
 ||google.co.jp/ads
-||epic.wootscratch.com
-||html-load.cc
-||ad-delivery.net
 ||ats-wrapper.privacymanager.io
 
 watch.impress.co.jp###gpt-div-ipc-watch-all-pc-pd001
