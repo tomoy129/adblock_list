@@ -4,9 +4,6 @@
 travel.watch.impress.co.jp###travel-amazon-ranking
 impress.co.jp##.affiliate_wrapper
 
-@@||fb.html-load.com
-||html-load.com
-
 watch.impress.co.jp##.adsbygoogle
 
 trafficnews.jp##.box-ad-left
