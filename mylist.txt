@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: mylist
 
-dic.nicovideo.jp##.kyujin-box-pc-header
+dic.nicovideo.jp##.kyujin-box-pc-container
 
 ||platform.x.com
 ||ads.nicovideo.jp
