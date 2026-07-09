@@ -1,6 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: mylist
 
+||ads.nicovideo.jp
+
 travel.watch.impress.co.jp###travel-amazon-ranking
 impress.co.jp##.affiliate_wrapper
 
