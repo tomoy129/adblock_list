@@ -1,8 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: No_Script
 
-http://*$script
-https://*$script
+||*.js$third-party
 
 @@||addons.mozilla.org^$third-party,script
 @@||afx.ms^$third-party,script
