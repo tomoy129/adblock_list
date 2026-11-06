@@ -34,7 +34,6 @@
 @@||tinymce.cachefly.net^$third-party,script
 @@||wlxrs.com^$third-party,script
 @@||yahoo.com^$third-party,script
-@@||yahooapis.com^$third-party,script
 @@||yimg.com^$third-party,script
 @@||youtube.com^$third-party,script
 @@||ytimg.com^$third-party,script
