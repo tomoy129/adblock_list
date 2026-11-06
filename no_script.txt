@@ -310,7 +310,6 @@
 @@||iijmio.jp^$third-party,script
 @@||mimikaki.net^$third-party,script
 @@||jsdelivr.net^$third-party,script
-@@||yahooapis.jp^$third-party,script
 @@||nimg.jp^$third-party,script
 @@||gdxtag.com^$third-party,script
 @@||gamepass.com^$third-party,script
