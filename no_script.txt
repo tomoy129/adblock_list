@@ -45,7 +45,7 @@
 @@||fonts.googleapis.com^$script
 @@||fontawesome.com^$script
 @@||csp.withgoogle.com^$script
-@@||impress.co.jp^$script
+@@||*impress.co.jp^$script
 @@||livedoor.jp^$script
 @@||blogsys.jp^$script
 @@||genieesspv.jp^$script
