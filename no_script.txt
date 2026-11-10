@@ -35,7 +35,7 @@
 @@||wlxrs.com^$script
 @@||yahoo.com^$script
 @@||yimg.com^$script
-@@||youtube.com^$script
+@@||tarsama.hatenadiary.com^$script
 @@||ytimg.com^$script
 @@||pixiv.net^$script
 @@||ajax.googleapis.com^$script
