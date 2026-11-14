@@ -558,7 +558,7 @@ ascii.jp###uz-ascii_pc-0
 ||ads.pubmatic.com
 ||image6.pubmatic.com
 ||ssum.casalemedia.com
-||hb.adingo.jp
+||adingo.jp
 ||cdn.taboola.com
 ||platform.twitter.com
 ||imprhkmp.taboola.com
