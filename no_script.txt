@@ -376,3 +376,4 @@
 @@||zdassets.com^$script
 @@||poki-cdn.com^$script
 @@||smbc-gp.co.jp^$script
+@@||trafficnews.jp^$script
