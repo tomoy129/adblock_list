@@ -1,6 +1,11 @@
 [Adblock Plus 2.0]
 ! Title: mylist
 
+news.yahoo.co.jp##div.sc-adb6c38-1.gLwtTp
+trafficnews.jp##div.ad-large-big
+trafficnews.jp##div.box-ad-left
+trafficnews.jp##div.pc-side-ad > #\35 9576_197891
+
 dic.nicovideo.jp##.kyujin-box-pc-container
 
 ||platform.x.com
