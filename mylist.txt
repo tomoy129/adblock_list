@@ -1,6 +1,24 @@
 [Adblock Plus 2.0]
 ! Title: mylist
 
+news.yahoo.co.jp##div.sc-489025bc-1.jfFFBn
+news.yahoo.co.jp##div.sc-adb6c38-1.gLwtTp
+news.yahoo.co.jp##div.sc-b2cdd703-0.dkZlrN
+
+trafficnews.jp##div.ad-large-big
+trafficnews.jp##div.box-ad-left
+trafficnews.jp##div.pc-side-ad > #\35 9576_197891
+
+watch.impress.co.jp##article[role] > div > div > div > div[style]
+watch.impress.co.jp##aside.ad.billboard
+watch.impress.co.jp##aside.ad.billboard[style]
+
+www.watch.impress.co.jp##aside.ad.billboard
+www.watch.impress.co.jp##aside.amazon-ranking
+www.watch.impress.co.jp##div[style]
+
+xtech.nikkei.com##li:nth-of-type(5)
+
 news.yahoo.co.jp##div.sc-adb6c38-1.gLwtTp
 trafficnews.jp##div.ad-large-big
 trafficnews.jp##div.box-ad-left
