@@ -17,7 +17,6 @@ watch.impress.co.jp##article[role] > div > div > div > div[style]
 watch.impress.co.jp##aside.ad.billboard
 watch.impress.co.jp##aside.ad.billboard[style]
 
-www.watch.impress.co.jp##aside.ad.billboard
 www.watch.impress.co.jp##aside.amazon-ranking
 www.watch.impress.co.jp##div[style]
 
